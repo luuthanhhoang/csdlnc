@@ -1,0 +1,10 @@
+F:\ORACLE - CSDL NÂNG CAO\Thực hành\QLHOCTAP\BLL\bin\Debug\BLL.dll
+F:\ORACLE - CSDL NÂNG CAO\Thực hành\QLHOCTAP\BLL\bin\Debug\BLL.pdb
+F:\ORACLE - CSDL NÂNG CAO\Thực hành\QLHOCTAP\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+F:\ORACLE - CSDL NÂNG CAO\Thực hành\QLHOCTAP\BLL\obj\Debug\BLL.dll
+F:\ORACLE - CSDL NÂNG CAO\Thực hành\QLHOCTAP\BLL\obj\Debug\BLL.pdb
+F:\ORACLE - CSDL NÂNG CAO\Thực hành\QLHOCTAP\BLL\bin\Debug\DAO.dll
+F:\ORACLE - CSDL NÂNG CAO\Thực hành\QLHOCTAP\BLL\bin\Debug\DTO.dll
+F:\ORACLE - CSDL NÂNG CAO\Thực hành\QLHOCTAP\BLL\bin\Debug\DAO.pdb
+F:\ORACLE - CSDL NÂNG CAO\Thực hành\QLHOCTAP\BLL\bin\Debug\DTO.pdb
+F:\ORACLE - CSDL NÂNG CAO\Thực hành\QLHOCTAP\BLL\obj\Debug\BLL.csproj.CopyComplete

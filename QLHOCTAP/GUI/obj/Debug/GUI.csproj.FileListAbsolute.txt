@@ -1,0 +1,16 @@
+F:\ORACLE - CSDL NÂNG CAO\Thực hành\QLHOCTAP\GUI\bin\Debug\GUI.exe.config
+F:\ORACLE - CSDL NÂNG CAO\Thực hành\QLHOCTAP\GUI\bin\Debug\GUI.exe
+F:\ORACLE - CSDL NÂNG CAO\Thực hành\QLHOCTAP\GUI\bin\Debug\GUI.pdb
+F:\ORACLE - CSDL NÂNG CAO\Thực hành\QLHOCTAP\GUI\bin\Debug\BLL.dll
+F:\ORACLE - CSDL NÂNG CAO\Thực hành\QLHOCTAP\GUI\bin\Debug\DTO.dll
+F:\ORACLE - CSDL NÂNG CAO\Thực hành\QLHOCTAP\GUI\bin\Debug\BLL.pdb
+F:\ORACLE - CSDL NÂNG CAO\Thực hành\QLHOCTAP\GUI\bin\Debug\DTO.pdb
+F:\ORACLE - CSDL NÂNG CAO\Thực hành\QLHOCTAP\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+F:\ORACLE - CSDL NÂNG CAO\Thực hành\QLHOCTAP\GUI\obj\Debug\GUI.Properties.Resources.resources
+F:\ORACLE - CSDL NÂNG CAO\Thực hành\QLHOCTAP\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+F:\ORACLE - CSDL NÂNG CAO\Thực hành\QLHOCTAP\GUI\obj\Debug\GUI.csproj.CopyComplete
+F:\ORACLE - CSDL NÂNG CAO\Thực hành\QLHOCTAP\GUI\obj\Debug\GUI.exe
+F:\ORACLE - CSDL NÂNG CAO\Thực hành\QLHOCTAP\GUI\obj\Debug\GUI.pdb
+F:\ORACLE - CSDL NÂNG CAO\Thực hành\QLHOCTAP\GUI\obj\Debug\GUI.Form1.resources
+F:\ORACLE - CSDL NÂNG CAO\Thực hành\QLHOCTAP\GUI\bin\Debug\DAO.dll
+F:\ORACLE - CSDL NÂNG CAO\Thực hành\QLHOCTAP\GUI\bin\Debug\DAO.pdb

@@ -1,0 +1,5 @@
+F:\ORACLE - CSDL NÂNG CAO\Thực hành\QLHOCTAP\DTO\bin\Debug\DTO.dll
+F:\ORACLE - CSDL NÂNG CAO\Thực hành\QLHOCTAP\DTO\bin\Debug\DTO.pdb
+F:\ORACLE - CSDL NÂNG CAO\Thực hành\QLHOCTAP\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+F:\ORACLE - CSDL NÂNG CAO\Thực hành\QLHOCTAP\DTO\obj\Debug\DTO.dll
+F:\ORACLE - CSDL NÂNG CAO\Thực hành\QLHOCTAP\DTO\obj\Debug\DTO.pdb
