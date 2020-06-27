@@ -14,3 +14,4 @@ F:\ORACLE - CSDL NÂNG CAO\Thực hành\QLHOCTAP\GUI\obj\Debug\GUI.pdb
 F:\ORACLE - CSDL NÂNG CAO\Thực hành\QLHOCTAP\GUI\obj\Debug\GUI.Form1.resources
 F:\ORACLE - CSDL NÂNG CAO\Thực hành\QLHOCTAP\GUI\bin\Debug\DAO.dll
 F:\ORACLE - CSDL NÂNG CAO\Thực hành\QLHOCTAP\GUI\bin\Debug\DAO.pdb
+F:\ORACLE - CSDL NÂNG CAO\Thực hành\QLHOCTAP\GUI\obj\Debug\GUI.Form2.resources

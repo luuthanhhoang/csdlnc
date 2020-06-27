@@ -42,7 +42,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ConnectAccess.cs" />
+    <Compile Include="GiangVienAccess.cs" />
+    <Compile Include="KhoaHocAccess.cs" />
+    <Compile Include="KhoaVienAccess.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SearchAccess.cs" />
+    <Compile Include="SearchF2Access.cs" />
     <Compile Include="StudentAccess.cs" />
   </ItemGroup>
   <ItemGroup>

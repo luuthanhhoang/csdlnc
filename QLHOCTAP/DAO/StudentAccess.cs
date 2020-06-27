@@ -20,6 +20,7 @@ namespace DAO {
             SqlDataAdapter da = new SqlDataAdapter(command);
             DataTable dt = new DataTable();
             da.Fill(dt);
+            closeConnection();
             //SqlDataReader reader = command.ExecuteReader();
 
             //while (reader.Read()) {

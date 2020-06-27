@@ -35,5 +35,41 @@ namespace GUI {
             txtKyHoc.Text = row.Cells[3].Value + "";
             txtKhoaHoc.Text = row.Cells[4].Value + "";
         }
+
+        private void btnSearch_Click(object sender, EventArgs e) {
+            SearchStudentBLL sst = new SearchStudentBLL();
+            if (txtMSV.Text != "") {
+                DataTable Std = sst.SearchStudent("ID", txtMSV.Text);
+                dtgvSinhvien.DataSource = Std;
+                return;
+            }
+            if (txtHoTen.Text != "") {
+                DataTable Std = sst.SearchStudent("STUDENT_NAME", txtHoTen.Text);
+                dtgvSinhvien.DataSource = Std;
+                return;
+            }
+            if (txtNamHoc.Text != "") {
+                DataTable Std = sst.SearchStudent("YEAR", txtNamHoc.Text);
+                dtgvSinhvien.DataSource = Std;
+                return;
+            }
+            if (txtKyHoc.Text != "") {
+                DataTable Std = sst.SearchStudent("SEMESTER", txtKyHoc.Text);
+                dtgvSinhvien.DataSource = Std;
+                return;
+            }
+            if (txtKhoaHoc.Text != "") {
+                DataTable Std = sst.SearchStudent("TITLE", txtKhoaHoc.Text);
+                dtgvSinhvien.DataSource = Std;
+                return;
+            }
+        }
+
+        private void btnQuanLy_Click(object sender, EventArgs e) {
+            Form2 f = new Form2();
+            this.Hide();
+            f.ShowDialog();
+            this.Show();
+        }
     }
 }

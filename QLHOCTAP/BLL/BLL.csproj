@@ -41,7 +41,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="GiangVienBLL.cs" />
+    <Compile Include="KhoaHocBLL.cs" />
+    <Compile Include="KhoaVienBLL.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SearchF2BLL.cs" />
+    <Compile Include="SearchStudentBLL.cs" />
     <Compile Include="StudentBLL.cs" />
   </ItemGroup>
   <ItemGroup>
