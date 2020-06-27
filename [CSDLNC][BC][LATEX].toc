@@ -1,0 +1,164 @@
+\contentsline {chapter}{\numberline {1}C\IeC {\ohorn } s\IeC {\h \ohorn } d\IeC {\~\uhorn } li\IeC {\d \ecircumflex }u l\IeC {\'\ohorn }n}{7}
+\contentsline {section}{\numberline {1.1}Th\IeC {\'\ecircumflex } n\IeC {\`a}o l\IeC {\`a} c\IeC {\ohorn } s\IeC {\h \ohorn } d\IeC {\~\uhorn } li\IeC {\d \ecircumflex }u l\IeC {\'\ohorn }n?}{7}
+\contentsline {section}{\numberline {1.2}\IeC {\DJ }\IeC {\d \abreve }c tr\IeC {\uhorn }ng c\IeC {\ohorn } b\IeC {\h a}n c\IeC {\h u}a c\IeC {\ohorn } s\IeC {\h \ohorn } d\IeC {\~\uhorn } li\IeC {\d \ecircumflex }u l\IeC {\'\ohorn }n}{7}
+\contentsline {subsection}{\numberline {1.2.1}Dung l\IeC {\uhorn }\IeC {\d \ohorn }ng (Volume)}{8}
+\contentsline {subsection}{\numberline {1.2.2}T\IeC {\'\ocircumflex }c \IeC {\dj }\IeC {\d \ocircumflex } (Velocity)}{8}
+\contentsline {subsection}{\numberline {1.2.3}\IeC {\DJ }a d\IeC {\d a}ng (Variety)}{8}
+\contentsline {subsection}{\numberline {1.2.4}\IeC {\DJ }\IeC {\d \ocircumflex } tin c\IeC {\d \acircumflex }y (Veracity)}{9}
+\contentsline {subsection}{\numberline {1.2.5}Gi\IeC {\'a} tr\IeC {\d i} (Value)}{9}
+\contentsline {section}{\numberline {1.3}C\IeC {\'a}c \IeC {\'\uhorn }ng d\IeC {\d u}ng c\IeC {\h u}a c\IeC {\ohorn } s\IeC {\h \ohorn } d\IeC {\~\uhorn } li\IeC {\d \ecircumflex }u l\IeC {\'\ohorn }n}{10}
+\contentsline {subsection}{\numberline {1.3.1}Qu\IeC {\h a}n l\IeC {\'y} ch\IeC {\'\i }nh ph\IeC {\h u}}{10}
+\contentsline {subsection}{\numberline {1.3.2}S\IeC {\d \uhorn } ph\IeC {\'a}t tri\IeC {\h \ecircumflex }n qu\IeC {\'\ocircumflex }c t\IeC {\'\ecircumflex }}{10}
+\contentsline {subsection}{\numberline {1.3.3}T\IeC {\`a}i ch\IeC {\'\i }nh}{10}
+\contentsline {subsection}{\numberline {1.3.4}S\IeC {\h a}n xu\IeC {\'\acircumflex }t}{11}
+\contentsline {subsection}{\numberline {1.3.5}Ch\IeC {\u a}m s\IeC {\'o}c s\IeC {\'\uhorn }c kh\IeC {\h o}e}{11}
+\contentsline {subsection}{\numberline {1.3.6}Gi\IeC {\'a}o d\IeC {\d u}c}{12}
+\contentsline {subsection}{\numberline {1.3.7}Truy\IeC {\`\ecircumflex }n th\IeC {\^o}ng}{12}
+\contentsline {subsection}{\numberline {1.3.8}C\IeC {\^o}ng ngh\IeC {\d \ecircumflex }}{12}
+\contentsline {subsection}{\numberline {1.3.9}M\IeC {\d a}ng l\IeC {\uhorn }\IeC {\'\ohorn }i v\IeC {\d a}n v\IeC {\d \acircumflex }t k\IeC {\'\ecircumflex }t n\IeC {\'\ocircumflex }i Internet (IoT)}{13}
+\contentsline {section}{\numberline {1.4}NoSQL}{13}
+\contentsline {subsubsection}{T\IeC {\h \ocircumflex }ng quan v\IeC {\`\ecircumflex } c\IeC {\ohorn } s\IeC {\h \ohorn } d\IeC {\~\uhorn } li\IeC {\d \ecircumflex }u NoSQL}{13}
+\contentsline {subsubsection}{M\IeC {\d \ocircumflex }t s\IeC {\'\ocircumflex } \IeC {\dj }\IeC {\d \abreve }c \IeC {\dj }i\IeC {\h \ecircumflex }m c\IeC {\h u}a NoSQL}{14}
+\contentsline {chapter}{\numberline {2}C\IeC {\ohorn } s\IeC {\h \ohorn } d\IeC {\~\uhorn } li\IeC {\d \ecircumflex }u ph\IeC {\^a}n t\IeC {\'a}n}{15}
+\contentsline {section}{\numberline {2.1}C\IeC {\'a}c kh\IeC {\'a}i ni\IeC {\d \ecircumflex }m c\IeC {\ohorn } b\IeC {\h a}n trong c\IeC {\ohorn } s\IeC {\h \ohorn } d\IeC {\~\uhorn } li\IeC {\d \ecircumflex }u ph\IeC {\^a}n t\IeC {\'a}n}{15}
+\contentsline {subsubsection}{C\IeC {\ohorn } s\IeC {\h \ohorn } d\IeC {\~\uhorn } li\IeC {\d \ecircumflex }u ph\IeC {\^a}n t\IeC {\'a}n}{15}
+\contentsline {subsubsection}{H\IeC {\d \ecircumflex } qu\IeC {\h a}n tr\IeC {\d i} CSDL ph\IeC {\^a}n t\IeC {\'a}n}{15}
+\contentsline {subsubsection}{\IeC {\'\UHORN }ng d\IeC {\d u}ng c\IeC {\d u}c b\IeC {\d \ocircumflex }}{15}
+\contentsline {subsubsection}{\IeC {\'\UHORN }ng d\IeC {\d u}ng to\IeC {\`a}n c\IeC {\d u}c}{15}
+\contentsline {section}{\numberline {2.2}\IeC {\DJ }\IeC {\'a}nh gi\IeC {\'a} c\IeC {\ohorn } s\IeC {\h \ohorn } d\IeC {\~\uhorn } li\IeC {\d \ecircumflex }u ph\IeC {\^a}n t\IeC {\'a}n}{15}
+\contentsline {subsection}{\numberline {2.2.1}\IeC {\UHORN }u \IeC {\dj }i\IeC {\h \ecircumflex }m v\IeC {\`a} nh\IeC {\uhorn }\IeC {\d \ohorn }c \IeC {\dj }i\IeC {\h \ecircumflex }m c\IeC {\h u}a c\IeC {\ohorn } s\IeC {\h \ohorn } d\IeC {\~\uhorn } li\IeC {\d \ecircumflex }u ph\IeC {\^a}n t\IeC {\'a}n}{15}
+\contentsline {subsubsection}{\IeC {\UHORN }u \IeC {\dj }i\IeC {\h \ecircumflex }m}{15}
+\contentsline {subsubsection}{Nh\IeC {\uhorn }\IeC {\d \ohorn }c \IeC {\dj }i\IeC {\h \ecircumflex }m}{16}
+\contentsline {subsection}{\numberline {2.2.2}M\IeC {\d \ocircumflex }t s\IeC {\'\ocircumflex } v\IeC {\'\acircumflex }n \IeC {\dj }\IeC {\`\ecircumflex } \IeC {\dj }\IeC {\'\ocircumflex }i v\IeC {\'\ohorn }i c\IeC {\ohorn } s\IeC {\h \ohorn } d\IeC {\~\uhorn } li\IeC {\d \ecircumflex }u ph\IeC {\^a}n t\IeC {\'a}n}{16}
+\contentsline {subsubsection}{V\IeC {\'\acircumflex }n \IeC {\dj }\IeC {\`\ecircumflex } v\IeC {\`\ecircumflex } thi\IeC {\'\ecircumflex }t k\IeC {\'\ecircumflex }}{16}
+\contentsline {subsubsection}{V\IeC {\'\acircumflex }n \IeC {\dj }\IeC {\`\ecircumflex } x\IeC {\h \uhorn } l\IeC {\'y} truy v\IeC {\'\acircumflex }n}{16}
+\contentsline {subsubsection}{V\IeC {\'\acircumflex }n \IeC {\dj }\IeC {\`\ecircumflex } \IeC {\dj }i\IeC {\`\ecircumflex }u khi\IeC {\h \ecircumflex }n t\IeC {\uhorn }\IeC {\ohorn }ng tranh}{16}
+\contentsline {subsubsection}{V\IeC {\'\acircumflex }n \IeC {\dj }\IeC {\`\ecircumflex } \IeC {\dj }\IeC {\d \ocircumflex } tin c\IeC {\d \acircumflex }y}{17}
+\contentsline {section}{\numberline {2.3}X\IeC {\^a}y d\IeC {\d \uhorn }ng ki\IeC {\'\ecircumflex }n tr\IeC {\'u}c c\IeC {\ohorn } s\IeC {\h \ohorn } d\IeC {\~\uhorn } li\IeC {\d \ecircumflex }u ph\IeC {\^a}n t\IeC {\'a}n}{17}
+\contentsline {subsubsection}{S\IeC {\ohorn } \IeC {\dj }\IeC {\`\ocircumflex } t\IeC {\h \ocircumflex }ng th\IeC {\h \ecircumflex }}{17}
+\contentsline {subsubsection}{S\IeC {\ohorn } \IeC {\dj }\IeC {\`\ocircumflex } ph\IeC {\^a}n \IeC {\dj }o\IeC {\d a}n}{17}
+\contentsline {subsubsection}{S\IeC {\ohorn } \IeC {\dj }\IeC {\`\ocircumflex } \IeC {\dj }\IeC {\d i}nh v\IeC {\d i}}{17}
+\contentsline {subsubsection}{S\IeC {\ohorn } \IeC {\dj }\IeC {\`\ocircumflex } \IeC {\'a}nh x\IeC {\d a} \IeC {\dj }\IeC {\d i}a ph\IeC {\uhorn }\IeC {\ohorn }ng}{18}
+\contentsline {section}{\numberline {2.4}Thi\IeC {\'\ecircumflex }t k\IeC {\'\ecircumflex } c\IeC {\ohorn } s\IeC {\h \ohorn } d\IeC {\~\uhorn } li\IeC {\d \ecircumflex }u ph\IeC {\^a}n t\IeC {\'a}n}{18}
+\contentsline {subsection}{\numberline {2.4.1}K\IeC {\~y} thu\IeC {\d \acircumflex }t ph\IeC {\^a}n \IeC {\dj }o\IeC {\d a}n}{18}
+\contentsline {subsection}{\numberline {2.4.2}C\IeC {\'a}c r\IeC {\`a}ng bu\IeC {\d \ocircumflex }c trong thi\IeC {\'\ecircumflex }t k\IeC {\'\ecircumflex } ph\IeC {\^a}n \IeC {\dj }o\IeC {\d a}n}{18}
+\contentsline {subsubsection}{T\IeC {\'\i }nh \IeC {\dj }\IeC {\`\acircumflex }y \IeC {\dj }\IeC {\h u}}{18}
+\contentsline {subsubsection}{T\IeC {\'\i }nh ph\IeC {\d u}c h\IeC {\`\ocircumflex }i}{18}
+\contentsline {subsubsection}{T\IeC {\'\i }nh t\IeC {\'a}ch bi\IeC {\d \ecircumflex }t}{19}
+\contentsline {section}{\numberline {2.5}T\IeC {\'\i }nh trong su\IeC {\'\ocircumflex }t c\IeC {\h u}a c\IeC {\ohorn } s\IeC {\h \ohorn } d\IeC {\~\uhorn } li\IeC {\d \ecircumflex }u ph\IeC {\^a}n t\IeC {\'a}n}{19}
+\contentsline {subsection}{\numberline {2.5.1}Trong su\IeC {\'\ocircumflex }t ph\IeC {\^a}n \IeC {\dj }o\IeC {\d a}n (Fragmentation transparency)}{19}
+\contentsline {subsection}{\numberline {2.5.2}Trong su\IeC {\'\ocircumflex }t v\IeC {\`\ecircumflex } v\IeC {\d i} tr\IeC {\'\i } (Location transparency)}{19}
+\contentsline {subsection}{\numberline {2.5.3}Trong su\IeC {\'\ocircumflex }t \IeC {\'a}nh x\IeC {\d a} \IeC {\dj }\IeC {\d i}a ph\IeC {\uhorn }\IeC {\ohorn }ng (Local mapping transparency)}{19}
+\contentsline {subsection}{\numberline {2.5.4}Trong su\IeC {\'\ocircumflex }t nh\IeC {\^a}n b\IeC {\h a}n (Replication transparency)}{19}
+\contentsline {chapter}{\numberline {3}H\IeC {\d \ecircumflex } qu\IeC {\h a}n tr\IeC {\d i} c\IeC {\ohorn } s\IeC {\h \ohorn } d\IeC {\~\uhorn } li\IeC {\d \ecircumflex }u Oracle}{20}
+\contentsline {section}{\numberline {3.1}Lecture 1}{20}
+\contentsline {section}{\numberline {3.2}Lecture 2}{20}
+\contentsline {subsection}{\numberline {3.2.1}Practice 1}{20}
+\contentsline {subsection}{\numberline {3.2.2}Practice 2}{20}
+\contentsline {subsection}{\numberline {3.2.3}Practice 3}{21}
+\contentsline {subsection}{\numberline {3.2.4}Practice 4}{21}
+\contentsline {subsection}{\numberline {3.2.5}Practice 5}{22}
+\contentsline {subsection}{\numberline {3.2.6}Practice 6}{22}
+\contentsline {section}{\numberline {3.3}Lecture 3}{22}
+\contentsline {subsection}{\numberline {3.3.1}Practice 1}{22}
+\contentsline {subsection}{\numberline {3.3.2}Practice 2}{23}
+\contentsline {subsection}{\numberline {3.3.3}Practice 3}{23}
+\contentsline {subsection}{\numberline {3.3.4}Practice 4}{24}
+\contentsline {subsection}{\numberline {3.3.5}Practice 5}{25}
+\contentsline {subsection}{\numberline {3.3.6}Practice 6}{25}
+\contentsline {section}{\numberline {3.4}Lecture 4}{26}
+\contentsline {subsection}{\numberline {3.4.1}Practice 1,2}{26}
+\contentsline {subsection}{\numberline {3.4.2}Practice 3}{26}
+\contentsline {subsection}{\numberline {3.4.3}Practice 4}{26}
+\contentsline {subsection}{\numberline {3.4.4}Practice 5}{27}
+\contentsline {subsection}{\numberline {3.4.5}Practice 6}{27}
+\contentsline {subsection}{\numberline {3.4.6}Practice 7}{28}
+\contentsline {subsection}{\numberline {3.4.7}Practice 8}{28}
+\contentsline {subsection}{\numberline {3.4.8}Practice 9}{29}
+\contentsline {section}{\numberline {3.5}Lecture 5}{29}
+\contentsline {subsection}{\numberline {3.5.1}Practice 1}{29}
+\contentsline {subsection}{\numberline {3.5.2}Practice 2}{30}
+\contentsline {subsection}{\numberline {3.5.3}Practice 3}{31}
+\contentsline {subsection}{\numberline {3.5.4}Practice 4}{31}
+\contentsline {subsection}{\numberline {3.5.5}Practice 5}{32}
+\contentsline {subsection}{\numberline {3.5.6}Practice 6}{33}
+\contentsline {subsection}{\numberline {3.5.7}Practice 7}{33}
+\contentsline {subsection}{\numberline {3.5.8}Practice 8}{33}
+\contentsline {subsection}{\numberline {3.5.9}Practice 9}{34}
+\contentsline {subsection}{\numberline {3.5.10}Practice 10}{34}
+\contentsline {section}{\numberline {3.6}Lecture 6}{35}
+\contentsline {subsection}{\numberline {3.6.1}Practice 1}{35}
+\contentsline {subsection}{\numberline {3.6.2}Practice 2}{35}
+\contentsline {subsection}{\numberline {3.6.3}Practice 3}{36}
+\contentsline {subsection}{\numberline {3.6.4}Practice 4}{37}
+\contentsline {subsection}{\numberline {3.6.5}Practice 5}{38}
+\contentsline {subsection}{\numberline {3.6.6}Practice 6}{38}
+\contentsline {subsection}{\numberline {3.6.7}Practice 7}{39}
+\contentsline {section}{\numberline {3.7}Lecture 7}{39}
+\contentsline {section}{\numberline {3.8}Lecture 8}{40}
+\contentsline {subsection}{\numberline {3.8.1}Practice 1}{40}
+\contentsline {subsection}{\numberline {3.8.2}Practice 2}{40}
+\contentsline {subsection}{\numberline {3.8.3}Practice 3}{41}
+\contentsline {subsection}{\numberline {3.8.4}Practice 4}{42}
+\contentsline {section}{\numberline {3.9}Lecture 9, 10}{42}
+\contentsline {section}{\numberline {3.10}Lecture 11}{43}
+\contentsline {subsection}{\numberline {3.10.1}Practice 1}{43}
+\contentsline {subsection}{\numberline {3.10.2}Practice 2}{43}
+\contentsline {subsection}{\numberline {3.10.3}Practice 3}{44}
+\contentsline {chapter}{\numberline {4}B\IeC {\`a}i t\IeC {\d \acircumflex }p k\IeC {\'\ecircumflex }t th\IeC {\'u}c m\IeC {\^o}n}{45}
+\contentsline {section}{\numberline {4.1}B\IeC {\`a}i 1}{45}
+\contentsline {subsection}{\numberline {4.1.1}M\IeC {\~a} ngu\IeC {\`\ocircumflex }n Oracle}{45}
+\contentsline {subsubsection}{B\IeC {\uhorn }\IeC {\'\ohorn }c 1: T\IeC {\d a}o VIEW \IeC {\dj }\IeC {\h \ocircumflex }i \IeC {\dj }i\IeC {\h \ecircumflex }m ch\IeC {\~\uhorn } sang \IeC {\dj }i\IeC {\h \ecircumflex }m s\IeC {\'\ocircumflex }.}{45}
+\contentsline {subsubsection}{B\IeC {\uhorn }\IeC {\'\ohorn }c 2: T\IeC {\d a}o VIEW l\IeC {\'\acircumflex }y ra \IeC {\dj }i\IeC {\h \ecircumflex }m s\IeC {\'\ocircumflex } cao nh\IeC {\'\acircumflex }t c\IeC {\h u}a sinh vi\IeC {\^e}n}{46}
+\contentsline {subsubsection}{B\IeC {\uhorn }\IeC {\'\ohorn }c 3: T\IeC {\d a}o VIEW ch\IeC {\'\uhorn }a t\IeC {\'\i }n ch\IeC {\h i} t\IeC {\uhorn }\IeC {\ohorn }ng \IeC {\'\uhorn }ng}{46}
+\contentsline {subsubsection}{B\IeC {\uhorn }\IeC {\'\ohorn }c 4: T\IeC {\d a}o VIEW l\IeC {\'\acircumflex }y ra t\IeC {\h \ocircumflex }ng s\IeC {\'\ocircumflex } t\IeC {\'\i }n ch\IeC {\h i}}{46}
+\contentsline {subsubsection}{B\IeC {\uhorn }\IeC {\'\ohorn }c 5: T\IeC {\d a}o th\IeC {\h u} t\IeC {\d u}c ki\IeC {\h \ecircumflex }m tra \IeC {\dj }i\IeC {\`\ecircumflex }u ki\IeC {\d \ecircumflex }n t\IeC {\'\ocircumflex }t nghi\IeC {\d \ecircumflex }p c\IeC {\h u}a sinh vi\IeC {\^e}n}{46}
+\contentsline {subsubsection}{K\IeC {\'\ecircumflex }t qu\IeC {\h a} th\IeC {\d \uhorn }c thi Oracle v\IeC {\'\ohorn }i ID = 1000}{46}
+\contentsline {subsection}{\numberline {4.1.2}M\IeC {\~a} ngu\IeC {\`\ocircumflex }n SQL}{47}
+\contentsline {subsubsection}{K\IeC {\'\ecircumflex }t qu\IeC {\h a}}{48}
+\contentsline {subsection}{\numberline {4.1.3}B\IeC {\`\i }nh lu\IeC {\d \acircumflex }n}{48}
+\contentsline {section}{\numberline {4.2}B\IeC {\`a}i 2}{48}
+\contentsline {subsection}{\numberline {4.2.1}M\IeC {\~a} ngu\IeC {\`\ocircumflex }n Oracle}{49}
+\contentsline {subsubsection}{B\IeC {\uhorn }\IeC {\'\ohorn }c 1}{49}
+\contentsline {subsubsection}{B\IeC {\uhorn }\IeC {\'\ohorn }c 2}{49}
+\contentsline {subsubsection}{K\IeC {\'\ecircumflex }t qu\IeC {\h a} th\IeC {\d \uhorn }c thi}{50}
+\contentsline {subsection}{\numberline {4.2.2}M\IeC {\~a} ngu\IeC {\`\ocircumflex }n SQL}{50}
+\contentsline {subsubsection}{B\IeC {\uhorn }\IeC {\'\ohorn }c 2}{51}
+\contentsline {subsubsection}{K\IeC {\'\ecircumflex }t qu\IeC {\h a} th\IeC {\d \uhorn }c thi}{51}
+\contentsline {subsection}{\numberline {4.2.3}B\IeC {\`\i }nh lu\IeC {\d \acircumflex }n}{51}
+\contentsline {section}{\numberline {4.3}B\IeC {\`a}i 3}{52}
+\contentsline {subsection}{\numberline {4.3.1}M\IeC {\~a} ngu\IeC {\`\ocircumflex }n Oracle}{52}
+\contentsline {subsubsection}{B\IeC {\uhorn }\IeC {\'\ohorn }c 1}{52}
+\contentsline {subsubsection}{B\IeC {\uhorn }\IeC {\'\ohorn }c 2}{53}
+\contentsline {subsubsection}{K\IeC {\'\ecircumflex }t qu\IeC {\h a} th\IeC {\d \uhorn }c thi}{53}
+\contentsline {subsection}{\numberline {4.3.2}M\IeC {\~a} ngu\IeC {\`\ocircumflex }n SQL}{54}
+\contentsline {subsubsection}{K\IeC {\'\ecircumflex }t qu\IeC {\h a} th\IeC {\d \uhorn }c thi}{55}
+\contentsline {subsection}{\numberline {4.3.3}B\IeC {\`\i }nh lu\IeC {\d \acircumflex }n}{55}
+\contentsline {section}{\numberline {4.4}B\IeC {\`a}i 4}{56}
+\contentsline {subsection}{\numberline {4.4.1}M\IeC {\~a} ngu\IeC {\`\ocircumflex }n Oracle}{56}
+\contentsline {subsection}{\numberline {4.4.2}M\IeC {\~a} ngu\IeC {\`\ocircumflex }n SQL}{56}
+\contentsline {subsection}{\numberline {4.4.3}B\IeC {\`\i }nh lu\IeC {\d \acircumflex }n}{56}
+\contentsline {section}{\numberline {4.5}B\IeC {\`a}i 2}{56}
+\contentsline {subsection}{\numberline {4.5.1}M\IeC {\~a} ngu\IeC {\`\ocircumflex }n Oracle}{56}
+\contentsline {subsection}{\numberline {4.5.2}M\IeC {\~a} ngu\IeC {\`\ocircumflex }n SQL}{56}
+\contentsline {subsection}{\numberline {4.5.3}B\IeC {\`\i }nh lu\IeC {\d \acircumflex }n}{56}
+\contentsline {section}{\numberline {4.6}B\IeC {\`a}i 2}{56}
+\contentsline {subsection}{\numberline {4.6.1}M\IeC {\~a} ngu\IeC {\`\ocircumflex }n Oracle}{56}
+\contentsline {subsection}{\numberline {4.6.2}M\IeC {\~a} ngu\IeC {\`\ocircumflex }n SQL}{56}
+\contentsline {subsection}{\numberline {4.6.3}B\IeC {\`\i }nh lu\IeC {\d \acircumflex }n}{56}
+\contentsline {section}{\numberline {4.7}B\IeC {\`a}i 2}{56}
+\contentsline {subsection}{\numberline {4.7.1}M\IeC {\~a} ngu\IeC {\`\ocircumflex }n Oracle}{57}
+\contentsline {subsection}{\numberline {4.7.2}M\IeC {\~a} ngu\IeC {\`\ocircumflex }n SQL}{57}
+\contentsline {subsection}{\numberline {4.7.3}B\IeC {\`\i }nh lu\IeC {\d \acircumflex }n}{57}
+\contentsline {section}{\numberline {4.8}B\IeC {\`a}i 2}{57}
+\contentsline {subsection}{\numberline {4.8.1}M\IeC {\~a} ngu\IeC {\`\ocircumflex }n Oracle}{57}
+\contentsline {subsection}{\numberline {4.8.2}M\IeC {\~a} ngu\IeC {\`\ocircumflex }n SQL}{57}
+\contentsline {subsection}{\numberline {4.8.3}B\IeC {\`\i }nh lu\IeC {\d \acircumflex }n}{57}
+\contentsline {section}{\numberline {4.9}B\IeC {\`a}i 2}{57}
+\contentsline {subsection}{\numberline {4.9.1}M\IeC {\~a} ngu\IeC {\`\ocircumflex }n Oracle}{57}
+\contentsline {subsection}{\numberline {4.9.2}M\IeC {\~a} ngu\IeC {\`\ocircumflex }n SQL}{57}
+\contentsline {subsection}{\numberline {4.9.3}B\IeC {\`\i }nh lu\IeC {\d \acircumflex }n}{57}
+\contentsline {section}{\numberline {4.10}B\IeC {\`a}i 2}{57}
+\contentsline {subsection}{\numberline {4.10.1}M\IeC {\~a} ngu\IeC {\`\ocircumflex }n Oracle}{57}
+\contentsline {subsection}{\numberline {4.10.2}M\IeC {\~a} ngu\IeC {\`\ocircumflex }n SQL}{57}
+\contentsline {subsection}{\numberline {4.10.3}B\IeC {\`\i }nh lu\IeC {\d \acircumflex }n}{57}

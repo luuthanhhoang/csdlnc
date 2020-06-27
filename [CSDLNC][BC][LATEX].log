@@ -1,0 +1,1992 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2019.5.10)  28 JUN 2020 03:12
+entering extended mode
+**./[CSDLNC][BC][LATEX].tex
+([CSDLNC][BC][LATEX].tex
+LaTeX2e <2018-04-01> patch level 5
+("C:\Users\hoang\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\report.cls"
+Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Users\hoang\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size12.clo"
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\c@figure=\count87
+\c@table=\count88
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) ("C:\Users\hoang\AppData\Local\Programs\MiKTeX 2.9\tex\latex\vntex\vietnam.st
+y"
+Package: vietnam 2009/07/12 v1.3 support for Vietnamese
+ ("C:\Users\hoang\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+) ("C:\Users\hoang\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\fontenc.sty
+"
+Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
+ ("C:\Users\hoang\AppData\Local\Programs\MiKTeX 2.9\tex\latex\vntex\t5enc.def"
+File: t5enc.def 2006/11/21 v1.4 Vietnamese T5 encoding
+Now handling font encoding T5 ...
+... processing UTF-8 mapping file for font encoding T5
+("C:\Users\hoang\AppData\Local\Programs\MiKTeX 2.9\tex\latex\vntex\t5enc.dfu"
+File: t5enc.dfu 2006/08/19 v1.1 UTF8 support for Vietnamese
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0128 (decimal 296)
+   defining Unicode char U+0129 (decimal 297)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0168 (decimal 360)
+   defining Unicode char U+0169 (decimal 361)
+   defining Unicode char U+01A0 (decimal 416)
+   defining Unicode char U+01A1 (decimal 417)
+   defining Unicode char U+01AF (decimal 431)
+   defining Unicode char U+01B0 (decimal 432)
+   defining Unicode char U+1EA0 (decimal 7840)
+   defining Unicode char U+1EA1 (decimal 7841)
+   defining Unicode char U+1EA2 (decimal 7842)
+   defining Unicode char U+1EA3 (decimal 7843)
+   defining Unicode char U+1EA4 (decimal 7844)
+   defining Unicode char U+1EA5 (decimal 7845)
+   defining Unicode char U+1EA6 (decimal 7846)
+   defining Unicode char U+1EA7 (decimal 7847)
+   defining Unicode char U+1EA8 (decimal 7848)
+   defining Unicode char U+1EA9 (decimal 7849)
+   defining Unicode char U+1EAA (decimal 7850)
+   defining Unicode char U+1EAB (decimal 7851)
+   defining Unicode char U+1EAC (decimal 7852)
+   defining Unicode char U+1EAD (decimal 7853)
+   defining Unicode char U+1EAE (decimal 7854)
+   defining Unicode char U+1EAF (decimal 7855)
+   defining Unicode char U+1EB0 (decimal 7856)
+   defining Unicode char U+1EB1 (decimal 7857)
+   defining Unicode char U+1EB2 (decimal 7858)
+   defining Unicode char U+1EB3 (decimal 7859)
+   defining Unicode char U+1EB4 (decimal 7860)
+   defining Unicode char U+1EB5 (decimal 7861)
+   defining Unicode char U+1EB6 (decimal 7862)
+   defining Unicode char U+1EB7 (decimal 7863)
+   defining Unicode char U+1EB8 (decimal 7864)
+   defining Unicode char U+1EB9 (decimal 7865)
+   defining Unicode char U+1EBA (decimal 7866)
+   defining Unicode char U+1EBB (decimal 7867)
+   defining Unicode char U+1EBC (decimal 7868)
+   defining Unicode char U+1EBD (decimal 7869)
+   defining Unicode char U+1EBE (decimal 7870)
+   defining Unicode char U+1EBF (decimal 7871)
+   defining Unicode char U+1EC0 (decimal 7872)
+   defining Unicode char U+1EC1 (decimal 7873)
+   defining Unicode char U+1EC2 (decimal 7874)
+   defining Unicode char U+1EC3 (decimal 7875)
+   defining Unicode char U+1EC4 (decimal 7876)
+   defining Unicode char U+1EC5 (decimal 7877)
+   defining Unicode char U+1EC6 (decimal 7878)
+   defining Unicode char U+1EC7 (decimal 7879)
+   defining Unicode char U+1EC8 (decimal 7880)
+   defining Unicode char U+1EC9 (decimal 7881)
+   defining Unicode char U+1ECA (decimal 7882)
+   defining Unicode char U+1ECB (decimal 7883)
+   defining Unicode char U+1ECC (decimal 7884)
+   defining Unicode char U+1ECD (decimal 7885)
+   defining Unicode char U+1ECE (decimal 7886)
+   defining Unicode char U+1ECF (decimal 7887)
+   defining Unicode char U+1ED0 (decimal 7888)
+   defining Unicode char U+1ED1 (decimal 7889)
+   defining Unicode char U+1ED2 (decimal 7890)
+   defining Unicode char U+1ED3 (decimal 7891)
+   defining Unicode char U+1ED4 (decimal 7892)
+   defining Unicode char U+1ED5 (decimal 7893)
+   defining Unicode char U+1ED6 (decimal 7894)
+   defining Unicode char U+1ED7 (decimal 7895)
+   defining Unicode char U+1ED8 (decimal 7896)
+   defining Unicode char U+1ED9 (decimal 7897)
+   defining Unicode char U+1EDA (decimal 7898)
+   defining Unicode char U+1EDB (decimal 7899)
+   defining Unicode char U+1EDC (decimal 7900)
+   defining Unicode char U+1EDD (decimal 7901)
+   defining Unicode char U+1EDE (decimal 7902)
+   defining Unicode char U+1EDF (decimal 7903)
+   defining Unicode char U+1EE0 (decimal 7904)
+   defining Unicode char U+1EE1 (decimal 7905)
+   defining Unicode char U+1EE2 (decimal 7906)
+   defining Unicode char U+1EE3 (decimal 7907)
+   defining Unicode char U+1EE4 (decimal 7908)
+   defining Unicode char U+1EE5 (decimal 7909)
+   defining Unicode char U+1EE6 (decimal 7910)
+   defining Unicode char U+1EE7 (decimal 7911)
+   defining Unicode char U+1EE8 (decimal 7912)
+   defining Unicode char U+1EE9 (decimal 7913)
+   defining Unicode char U+1EEA (decimal 7914)
+   defining Unicode char U+1EEB (decimal 7915)
+   defining Unicode char U+1EEC (decimal 7916)
+   defining Unicode char U+1EED (decimal 7917)
+   defining Unicode char U+1EEE (decimal 7918)
+   defining Unicode char U+1EEF (decimal 7919)
+   defining Unicode char U+1EF0 (decimal 7920)
+   defining Unicode char U+1EF1 (decimal 7921)
+   defining Unicode char U+1EF2 (decimal 7922)
+   defining Unicode char U+1EF3 (decimal 7923)
+   defining Unicode char U+1EF4 (decimal 7924)
+   defining Unicode char U+1EF5 (decimal 7925)
+   defining Unicode char U+1EF6 (decimal 7926)
+   defining Unicode char U+1EF7 (decimal 7927)
+   defining Unicode char U+1EF8 (decimal 7928)
+   defining Unicode char U+1EF9 (decimal 7929)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+))
+LaTeX Font Info:    Try loading font information for T5+cmr on input line 105.
+("C:\Users\hoang\AppData\Local\Programs\MiKTeX 2.9\tex\latex\vntex\t5cmr.fd"
+File: t5cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+))
+("C:\Users\hoang\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+Package: inputenc 2018/04/06 v1.3b Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+) ("C:\Users\hoang\AppData\Local\Programs\MiKTeX 2.9\tex\latex\vntex\vncaps.tex
+"
+File: vncaps.tex 2006/06/07 v1.1 Captions in Vietnamese
+))
+("C:\Users\hoang\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.st
+y"
+Package: amsmath 2017/09/02 v2.17a AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+
+("C:\Users\hoang\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstext.st
+y"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Users\hoang\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty
+"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen103
+))
+("C:\Users\hoang\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty
+"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen104
+)
+("C:\Users\hoang\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty
+"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count89
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count90
+\leftroot@=\count91
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count92
+\DOTSCASE@=\count93
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count94
+\c@MaxMatrixCols=\count95
+\dotsspace@=\muskip10
+\c@parentequation=\count96
+\dspbrk@lvl=\count97
+\tag@help=\toks17
+\row@=\count98
+\column@=\count99
+\maxfields@=\count100
+\andhelp@=\toks18
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks19
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+("C:\Users\hoang\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.
+sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+("C:\Users\hoang\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amssymb.s
+ty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+("C:\Users\hoang\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\makeidx.sty"
+Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
+)
+("C:\Users\hoang\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.
+sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\hoang\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.st
+y"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks21
+)
+("C:\Users\hoang\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.
+sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\hoang\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\hoang\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graph
+ics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Users\hoang\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdfte
+x.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+)
+("C:\Users\hoang\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fancybox\fancybox.
+sty"
+Package: fancybox 2010/05/15 1.4
+
+Style option: `fancybox' v1.4 <2010/05/15> (tvz)
+\@fancybox=\box28
+\shadowsize=\dimen114
+\@Sbox=\box29
+\do@VerbBox=\toks22
+\the@fancyput=\toks23
+\this@fancyput=\toks24
+\EndVerbatimTokens=\toks25
+\Verbatim@Outfile=\write3
+\Verbatim@Infile=\read1
+)
+("C:\Users\hoang\AppData\Local\Programs\MiKTeX 2.9\tex\latex\boxedminipage\boxe
+dminipage.sty"
+Package: boxedminipage 2020/04/19 v1.1 Boxed LaTeX2e minipages
+\bmp@box=\box30
+\bmp@width=\skip46
+\bmp@height=\skip47
+)
+("C:\Users\hoang\AppData\Local\Programs\MiKTeX 2.9\tex\latex\multirow\multirow.
+sty"
+Package: multirow 2018/08/03 v2.3 Span multiple rows of a table
+\multirow@colwidth=\skip48
+\multirow@cntb=\count101
+\multirow@dima=\skip49
+\bigstrutjot=\dimen115
+)
+("C:\Users\hoang\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.
+sty"
+Package: geometry 2018/04/16 v5.8 Page Geometry
+
+("C:\Users\hoang\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.s
+ty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+("C:\Users\hoang\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.
+sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Users\hoang\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.
+sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count102
+\Gm@cntv=\count103
+\c@Gm@tempcnt=\count104
+\Gm@bindingoffset=\dimen116
+\Gm@wd@mp=\dimen117
+\Gm@odd@mp=\dimen118
+\Gm@even@mp=\dimen119
+\Gm@layoutwidth=\dimen120
+\Gm@layoutheight=\dimen121
+\Gm@layouthoffset=\dimen122
+\Gm@layoutvoffset=\dimen123
+\Gm@dimlist=\toks26
+
+("C:\Users\hoang\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.
+cfg"))
+("C:\Users\hoang\AppData\Local\Programs\MiKTeX 2.9\tex\latex\koma-script\scrext
+end.sty"
+Package: scrextend 2019/10/12 v3.27 KOMA-Script package (extend other classes w
+ith features of KOMA-Script classes)
+
+("C:\Users\hoang\AppData\Local\Programs\MiKTeX 2.9\tex\latex\koma-script\scrkba
+se.sty"
+Package: scrkbase 2019/10/12 v3.27 KOMA-Script package (KOMA-Script-dependent b
+asics and keyval usage)
+
+("C:\Users\hoang\AppData\Local\Programs\MiKTeX 2.9\tex\latex\koma-script\scrbas
+e.sty"
+Package: scrbase 2019/10/12 v3.27 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
+
+("C:\Users\hoang\AppData\Local\Programs\MiKTeX 2.9\tex\latex\koma-script\scrlfi
+le.sty"
+Package: scrlfile 2019/10/12 v3.27 KOMA-Script package (loading files)
+)))) ([CSDLNC][BC][LATEX].aux)
+\openout1 = `[CSDLNC][BC][LATEX].aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+
+("C:\Users\hoang\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\mkii\supp-p
+df.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count105
+\scratchdimen=\dimen124
+\scratchbox=\box31
+\nofMPsegments=\count106
+\nofMParguments=\count107
+\everyMPshowfont=\toks27
+\MPscratchCnt=\count108
+\MPscratchDim=\dimen125
+\MPnumerator=\count109
+\makeMPintoPDFobject=\count110
+\everyMPtoPDFconversion=\toks28
+)
+("C:\Users\hoang\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-
+base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\hoang\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infware
+rr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\hoang\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.st
+y"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Users\hoang\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvdefin
+ekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Users\hoang\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds
+.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Users\hoang\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoptions
+.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\hoang\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvsetke
+ys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\hoang\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\etexcmd
+s.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Users\hoang\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifluate
+x.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+("C:\Users\hoang\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\pdftexc
+mds.sty"
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(99.58464pt, 441.01773pt, 56.9055pt)
+* v-part:(T,H,B)=(99.58464pt, 660.10394pt, 85.35826pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=441.01773pt
+* \textheight=660.10394pt
+* \oddsidemargin=27.31465pt
+* \evensidemargin=27.31465pt
+* \topmargin=-9.68535pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=11.69997pt plus 5.19942pt minus 2.60054pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+<bk.png, id=1, 225.84375pt x 336.50719pt>
+File: bk.png Graphic file (type png)
+<use bk.png>
+Package pdftex.def Info: bk.png  used on input line 28.
+(pdftex.def)             Requested size: 112.92159pt x 168.25317pt.
+LaTeX Font Info:    Calculating math sizes for size <14> on input line 40.
+LaTeX Font Info:    Try loading font information for U+msa on input line 40.
+("C:\Users\hoang\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 40.
+("C:\Users\hoang\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
+
+{C:/Users/hoang/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./bk.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 52--56
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--56
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--56
+
+ []
+
+[2
+
+] ([CSDLNC][BC][LATEX].toc
+LaTeX Font Info:    Calculating math sizes for size <13> on input line 2.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <13> not available
+(Font)              size <12> substituted on input line 2.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <6.5> not available
+(Font)              size <6> substituted on input line 2.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <13> not available
+(Font)              size <12> substituted on input line 2.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <6.5> not available
+(Font)              size <6> substituted on input line 2.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <13> not available
+(Font)              size <12> substituted on input line 2.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <6.5> not available
+(Font)              size <6> substituted on input line 2.
+
+[3
+
+] [4] [5])
+\tf@toc=\write4
+\openout4 = `[CSDLNC][BC][LATEX].toc'.
+
+ [6]
+Ch\uhorn \ohorn ng 1.
+<b-1-1.jpg, id=24, 462.22687pt x 284.56313pt>
+File: b-1-1.jpg Graphic file (type jpg)
+<use b-1-1.jpg>
+Package pdftex.def Info: b-1-1.jpg  used on input line 64.
+(pdftex.def)             Requested size: 323.5566pt x 199.19283pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--67
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--67
+
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[7
+
+]
+<b-2.jpg, id=29, 545.03625pt x 280.04625pt>
+File: b-2.jpg Graphic file (type jpg)
+<use b-2.jpg>
+Package pdftex.def Info: b-2.jpg  used on input line 81.
+(pdftex.def)             Requested size: 327.02428pt x 168.02904pt.
+ [8 <./b-1-1.jpg>]
+<b-3.jpg, id=33, 494.59781pt x 321.45094pt>
+File: b-3.jpg Graphic file (type jpg)
+<use b-3.jpg>
+Package pdftex.def Info: b-3.jpg  used on input line 90.
+(pdftex.def)             Requested size: 296.76097pt x 192.87204pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[9 <./b-2.jpg>] [10 <./b-3.jpg>] [11]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 109.
+
+
+("C:\Users\hoang\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <13> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 109.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <13> not available
+(Font)              size <12> substituted on input line 109.
+
+[12]
+<b-1.jpg, id=47, 1003.75pt x 465.74pt>
+File: b-1.jpg Graphic file (type jpg)
+<use b-1.jpg>
+Package pdftex.def Info: b-1.jpg  used on input line 120.
+(pdftex.def)             Requested size: 301.12732pt x 139.72307pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 125--127
+
+ []
+
+[13 <./b-1.jpg>] [14]
+Ch\uhorn \ohorn ng 2.
+[15
+
+] [16] [17] [18]
+Overfull \hbox (8.70348pt too wide) in paragraph at lines 222--222
+[]\T5/cmr/bx/n/15.59996 Trong suèt ph¥n o¤n (Frag-men-ta-tion trans-parency) 
+ []
+
+
+Overfull \hbox (5.65294pt too wide) in paragraph at lines 227--227
+[]\T5/cmr/bx/n/15.59996 Trong suèt ¡nh x¤ àa ph÷ìng (Lo-cal map-ping trans-
+ []
+
+[19]
+Ch\uhorn \ohorn ng 3.
+<p1.jpg, id=72, 323.70938pt x 65.49469pt>
+File: p1.jpg Graphic file (type jpg)
+<use p1.jpg>
+Package pdftex.def Info: p1.jpg  used on input line 246.
+(pdftex.def)             Requested size: 323.70859pt x 65.4945pt.
+<kp1.jpg, id=73, 107.65219pt x 21.07875pt>
+File: kp1.jpg Graphic file (type jpg)
+<use kp1.jpg>
+Package pdftex.def Info: kp1.jpg  used on input line 248.
+(pdftex.def)             Requested size: 107.65192pt x 21.07867pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 240--249
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 240--249
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 240--249
+
+ []
+
+<p2.jpg, id=74, 292.09125pt x 91.09032pt>
+File: p2.jpg Graphic file (type jpg)
+<use p2.jpg>
+Package pdftex.def Info: p2.jpg  used on input line 257.
+(pdftex.def)             Requested size: 292.09052pt x 91.09007pt.
+<kp2.jpg, id=75, 95.6072pt x 17.31468pt>
+File: kp2.jpg Graphic file (type jpg)
+<use kp2.jpg>
+Package pdftex.def Info: kp2.jpg  used on input line 259.
+(pdftex.def)             Requested size: 95.60695pt x 17.31462pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 253--260
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 253--260
+
+ []
+
+[20
+
+ <./p1.jpg> <./kp1.jpg>]
+<p3.jpg, id=79, 365.11406pt x 117.43875pt>
+File: p3.jpg Graphic file (type jpg)
+<use p3.jpg>
+Package pdftex.def Info: p3.jpg  used on input line 268.
+(pdftex.def)             Requested size: 365.11316pt x 117.43845pt.
+<kp3.jpg, id=80, 100.12407pt x 18.82031pt>
+File: kp3.jpg Graphic file (type jpg)
+<use kp3.jpg>
+Package pdftex.def Info: kp3.jpg  used on input line 270.
+(pdftex.def)             Requested size: 100.12381pt x 18.82025pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 264--271
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 264--271
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 264--271
+
+ []
+
+<p4.jpg, id=81, 268.00125pt x 51.19125pt>
+File: p4.jpg Graphic file (type jpg)
+<use p4.jpg>
+Package pdftex.def Info: p4.jpg  used on input line 279.
+(pdftex.def)             Requested size: 268.00058pt x 51.19112pt.
+<kp4.jpg, id=82, 136.25906pt x 17.31468pt>
+File: kp4.jpg Graphic file (type jpg)
+<use kp4.jpg>
+Package pdftex.def Info: kp4.jpg  used on input line 281.
+(pdftex.def)             Requested size: 136.25871pt x 17.31462pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 275--282
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 275--282
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 275--282
+
+ []
+
+[21 <./p2.jpg> <./kp2.jpg> <./p3.jpg> <./kp3.jpg>]
+<p5.jpg, id=86, 85.82062pt x 14.30344pt>
+File: p5.jpg Graphic file (type jpg)
+<use p5.jpg>
+Package pdftex.def Info: p5.jpg  used on input line 290.
+(pdftex.def)             Requested size: 85.82039pt x 14.30339pt.
+<kp5.jpg, id=87, 106.14656pt x 15.05624pt>
+File: kp5.jpg Graphic file (type jpg)
+<use kp5.jpg>
+Package pdftex.def Info: kp5.jpg  used on input line 292.
+(pdftex.def)             Requested size: 106.1463pt x 15.0562pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 286--293
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 286--293
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 286--293
+
+ []
+
+<p6.jpg, id=88, 188.95593pt x 52.69687pt>
+File: p6.jpg Graphic file (type jpg)
+<use p6.jpg>
+Package pdftex.def Info: p6.jpg  used on input line 301.
+(pdftex.def)             Requested size: 188.95546pt x 52.69673pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 297--302
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 297--302
+
+ []
+
+<p13.jpg, id=89, 380.17032pt x 52.69687pt>
+File: p13.jpg Graphic file (type jpg)
+<use p13.jpg>
+Package pdftex.def Info: p13.jpg  used on input line 313.
+(pdftex.def)             Requested size: 380.16939pt x 52.69673pt.
+<kp13.jpg, id=90, 140.02313pt x 15.80907pt>
+File: kp13.jpg Graphic file (type jpg)
+<use kp13.jpg>
+Package pdftex.def Info: kp13.jpg  used on input line 315.
+(pdftex.def)             Requested size: 140.02278pt x 15.809pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 307--316
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 307--316
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 307--316
+
+ []
+
+[22 <./p4.jpg> <./kp4.jpg> <./p5.jpg> <./kp5.jpg> <./p6.jpg>]
+<p23.jpg, id=94, 146.79843pt x 15.80907pt>
+File: p23.jpg Graphic file (type jpg)
+<use p23.jpg>
+Package pdftex.def Info: p23.jpg  used on input line 326.
+(pdftex.def)             Requested size: 146.79807pt x 15.809pt.
+<kp23.jpg, id=95, 268.75406pt x 163.3603pt>
+File: kp23.jpg Graphic file (type jpg)
+<use kp23.jpg>
+Package pdftex.def Info: kp23.jpg  used on input line 328.
+(pdftex.def)             Requested size: 268.7534pt x 163.3599pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 320--329
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 320--329
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 320--329
+
+ []
+
+<p33.jpg, id=96, 267.24844pt x 17.31468pt>
+File: p33.jpg Graphic file (type jpg)
+<use p33.jpg>
+Package pdftex.def Info: p33.jpg  used on input line 339.
+(pdftex.def)             Requested size: 267.24779pt x 17.31462pt.
+<kp33.jpg, id=97, 173.89969pt x 167.87718pt>
+File: kp33.jpg Graphic file (type jpg)
+<use kp33.jpg>
+Package pdftex.def Info: kp33.jpg  used on input line 341.
+(pdftex.def)             Requested size: 173.89925pt x 167.87677pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 333--342
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 333--342
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 333--342
+
+ []
+
+[23 <./p13.jpg> <./kp13.jpg> <./p23.jpg> <./kp23.jpg> <./p33.jpg>]
+<p43.jpg, id=101, 571.38469pt x 92.59593pt>
+File: p43.jpg Graphic file (type jpg)
+<use p43.jpg>
+Package pdftex.def Info: p43.jpg  used on input line 356.
+(pdftex.def)             Requested size: 445.67825pt x 72.22452pt.
+<kp43.jpg, id=102, 188.20313pt x 164.11313pt>
+File: kp43.jpg Graphic file (type jpg)
+<use kp43.jpg>
+Package pdftex.def Info: kp43.jpg  used on input line 358.
+(pdftex.def)             Requested size: 188.20265pt x 164.11272pt.
+<kp432.jpg, id=103, 106.89937pt x 16.56187pt>
+File: kp432.jpg Graphic file (type jpg)
+<use kp432.jpg>
+Package pdftex.def Info: kp432.jpg  used on input line 359.
+(pdftex.def)             Requested size: 106.8991pt x 16.56183pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 350--360
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 350--360
+
+ []
+
+
+Overfull \hbox (4.66052pt too wide) in paragraph at lines 350--360
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 350--360
+
+ []
+
+[24 <./kp33.jpg> <./p43.jpg> <./kp43.jpg>]
+<p53.jpg, id=107, 402.00188pt x 108.405pt>
+File: p53.jpg Graphic file (type jpg)
+<use p53.jpg>
+Package pdftex.def Info: p53.jpg  used on input line 374.
+(pdftex.def)             Requested size: 402.00089pt x 108.40472pt.
+<kp53.jpg, id=108, 146.79843pt x 126.4725pt>
+File: kp53.jpg Graphic file (type jpg)
+<use kp53.jpg>
+Package pdftex.def Info: kp53.jpg  used on input line 376.
+(pdftex.def)             Requested size: 132.11736pt x 113.82419pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 368--377
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 368--377
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 368--377
+
+ []
+
+<p63.jpg, id=109, 176.15813pt x 15.80907pt>
+File: p63.jpg Graphic file (type jpg)
+<use p63.jpg>
+Package pdftex.def Info: p63.jpg  used on input line 387.
+(pdftex.def)             Requested size: 176.15768pt x 15.809pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 381--388
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 381--388
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 393--397
+
+ []
+
+[25 <./kp432.jpg> <./p53.jpg> <./kp53.jpg> <./p63.jpg>]
+<34.jpg, id=114, 281.55188pt x 27.85406pt>
+File: 34.jpg Graphic file (type jpg)
+<use 34.jpg>
+Package pdftex.def Info: 34.jpg  used on input line 407.
+(pdftex.def)             Requested size: 281.55118pt x 27.85397pt.
+<k34.jpg, id=115, 214.55156pt x 166.37157pt>
+File: k34.jpg Graphic file (type jpg)
+<use k34.jpg>
+Package pdftex.def Info: k34.jpg  used on input line 409.
+(pdftex.def)             Requested size: 214.55103pt x 166.37114pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 401--410
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 401--410
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 401--410
+
+ []
+
+<44.jpg, id=116, 219.82124pt x 18.0675pt>
+File: 44.jpg Graphic file (type jpg)
+<use 44.jpg>
+Package pdftex.def Info: 44.jpg  used on input line 420.
+(pdftex.def)             Requested size: 219.8207pt x 18.06744pt.
+<k44.jpg, id=117, 96.36pt x 90.3375pt>
+File: k44.jpg Graphic file (type jpg)
+<use k44.jpg>
+Package pdftex.def Info: k44.jpg  used on input line 422.
+(pdftex.def)             Requested size: 96.35974pt x 90.33727pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 414--423
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 414--423
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 414--423
+
+ []
+
+[26 <./34.jpg> <./k34.jpg> <./44.jpg>]
+<54.jpg, id=121, 400.49625pt x 18.0675pt>
+File: 54.jpg Graphic file (type jpg)
+<use 54.jpg>
+Package pdftex.def Info: 54.jpg  used on input line 435.
+(pdftex.def)             Requested size: 400.49527pt x 18.06744pt.
+<k54.jpg, id=122, 129.48375pt x 165.61874pt>
+File: k54.jpg Graphic file (type jpg)
+<use k54.jpg>
+Package pdftex.def Info: k54.jpg  used on input line 437.
+(pdftex.def)             Requested size: 129.48341pt x 165.61833pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 429--438
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 429--438
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 429--438
+
+ []
+
+<64.jpg, id=123, 556.32843pt x 28.60687pt>
+File: 64.jpg Graphic file (type jpg)
+<use 64.jpg>
+Package pdftex.def Info: 64.jpg  used on input line 449.
+(pdftex.def)             Requested size: 445.06335pt x 22.88551pt.
+<k64.jpg, id=124, 179.92218pt x 112.16907pt>
+File: k64.jpg Graphic file (type jpg)
+<use k64.jpg>
+Package pdftex.def Info: k64.jpg  used on input line 451.
+(pdftex.def)             Requested size: 179.92174pt x 112.16878pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 443--452
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 443--452
+
+ []
+
+
+Overfull \hbox (4.04562pt too wide) in paragraph at lines 443--452
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 443--452
+
+ []
+
+[27 <./k44.jpg> <./54.jpg> <./k54.jpg> <./64.jpg>]
+<74.jpg, id=128, 299.61937pt x 42.91031pt>
+File: 74.jpg Graphic file (type jpg)
+<use 74.jpg>
+Package pdftex.def Info: 74.jpg  used on input line 463.
+(pdftex.def)             Requested size: 299.61864pt x 42.91019pt.
+<k74.jpg, id=129, 218.31563pt x 166.37157pt>
+File: k74.jpg Graphic file (type jpg)
+<use k74.jpg>
+Package pdftex.def Info: k74.jpg  used on input line 465.
+(pdftex.def)             Requested size: 218.31508pt x 166.37114pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 457--466
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 457--466
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 457--466
+
+ []
+
+<84.jpg, id=130, 464.4853pt x 20.32594pt>
+File: 84.jpg Graphic file (type jpg)
+<use 84.jpg>
+Package pdftex.def Info: 84.jpg  used on input line 476.
+(pdftex.def)             Requested size: 441.25854pt x 19.30952pt.
+<k84.jpg, id=131, 92.59593pt x 92.59593pt>
+File: k84.jpg Graphic file (type jpg)
+<use k84.jpg>
+Package pdftex.def Info: k84.jpg  used on input line 478.
+(pdftex.def)             Requested size: 92.59569pt x 92.59569pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 470--479
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 470--479
+
+ []
+
+
+Overfull \hbox (0.24081pt too wide) in paragraph at lines 470--479
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 470--479
+
+ []
+
+[28 <./k64.jpg> <./74.jpg> <./k74.jpg> <./84.jpg>]
+<94.jpg, id=135, 387.69844pt x 29.35968pt>
+File: 94.jpg Graphic file (type jpg)
+<use 94.jpg>
+Package pdftex.def Info: 94.jpg  used on input line 490.
+(pdftex.def)             Requested size: 387.69748pt x 29.35959pt.
+<k94.jpg, id=136, 188.20313pt x 167.87718pt>
+File: k94.jpg Graphic file (type jpg)
+<use k94.jpg>
+Package pdftex.def Info: k94.jpg  used on input line 492.
+(pdftex.def)             Requested size: 188.20265pt x 167.87677pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 484--493
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 484--493
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 484--493
+
+ []
+
+<15.jpg, id=137, 315.42844pt x 42.91031pt>
+File: 15.jpg Graphic file (type jpg)
+<use 15.jpg>
+Package pdftex.def Info: 15.jpg  used on input line 506.
+(pdftex.def)             Requested size: 315.42766pt x 42.91019pt.
+<k15.jpg, id=138, 228.10219pt x 167.12437pt>
+File: k15.jpg Graphic file (type jpg)
+<use k15.jpg>
+Package pdftex.def Info: k15.jpg  used on input line 508.
+(pdftex.def)             Requested size: 228.10161pt x 167.12395pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 500--509
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 500--509
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 500--509
+
+ []
+
+[29 <./k84.jpg> <./94.jpg> <./k94.jpg>]
+<25.jpg, id=142, 408.02437pt x 27.85406pt>
+File: 25.jpg Graphic file (type jpg)
+<use 25.jpg>
+Package pdftex.def Info: 25.jpg  used on input line 522.
+(pdftex.def)             Requested size: 408.02338pt x 27.85397pt.
+<k25.jpg, id=143, 176.15813pt x 167.87718pt>
+File: k25.jpg Graphic file (type jpg)
+<use k25.jpg>
+Package pdftex.def Info: k25.jpg  used on input line 524.
+(pdftex.def)             Requested size: 176.15768pt x 167.87677pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 516--525
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 516--525
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 516--525
+
+ []
+
+<35.jpg, id=144, 461.47406pt x 33.12375pt>
+File: 35.jpg Graphic file (type jpg)
+<use 35.jpg>
+Package pdftex.def Info: 35.jpg  used on input line 537.
+(pdftex.def)             Requested size: 438.39786pt x 31.46736pt.
+<k35.jpg, id=145, 348.55219pt x 164.86594pt>
+File: k35.jpg Graphic file (type jpg)
+<use k35.jpg>
+Package pdftex.def Info: k35.jpg  used on input line 539.
+(pdftex.def)             Requested size: 348.55132pt x 164.86551pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 531--540
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 531--540
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 531--540
+
+ []
+
+[30 <./15.jpg> <./k15.jpg> <./25.jpg> <./k25.jpg>]
+<45.jpg, id=149, 366.61969pt x 28.60687pt>
+File: 45.jpg Graphic file (type jpg)
+<use 45.jpg>
+Package pdftex.def Info: 45.jpg  used on input line 551.
+(pdftex.def)             Requested size: 366.61879pt x 28.6068pt.
+<k45.jpg, id=150, 164.86594pt x 167.87718pt>
+File: k45.jpg Graphic file (type jpg)
+<use k45.jpg>
+Package pdftex.def Info: k45.jpg  used on input line 553.
+(pdftex.def)             Requested size: 164.86551pt x 167.87677pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 545--554
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 545--554
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 545--554
+
+ []
+
+[31 <./35.jpg> <./k35.jpg> <./45.jpg>]
+<55.jpg, id=155, 330.48468pt x 58.71938pt>
+File: 55.jpg Graphic file (type jpg)
+<use 55.jpg>
+Package pdftex.def Info: 55.jpg  used on input line 583.
+(pdftex.def)             Requested size: 330.48387pt x 58.71921pt.
+<k55.jpg, id=156, 132.495pt x 121.20282pt>
+File: k55.jpg Graphic file (type jpg)
+<use k55.jpg>
+Package pdftex.def Info: k55.jpg  used on input line 585.
+(pdftex.def)             Requested size: 132.49466pt x 121.20251pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 577--586
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 577--586
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 577--586
+
+ []
+
+<65.jpg, id=157, 347.79938pt x 15.05624pt>
+File: 65.jpg Graphic file (type jpg)
+<use 65.jpg>
+Package pdftex.def Info: 65.jpg  used on input line 598.
+(pdftex.def)             Requested size: 347.79852pt x 15.0562pt.
+<k65.jpg, id=158, 82.05656pt x 110.66344pt>
+File: k65.jpg Graphic file (type jpg)
+<use k65.jpg>
+Package pdftex.def Info: k65.jpg  used on input line 600.
+(pdftex.def)             Requested size: 82.05635pt x 110.66315pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 592--601
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 592--601
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 592--601
+
+ []
+
+[32 <./k45.jpg> <./55.jpg> <./k55.jpg>]
+<75.jpg, id=162, 348.55219pt x 29.35968pt>
+File: 75.jpg Graphic file (type jpg)
+<use 75.jpg>
+Package pdftex.def Info: 75.jpg  used on input line 613.
+(pdftex.def)             Requested size: 348.55132pt x 29.35959pt.
+<k75.jpg, id=163, 204.765pt x 37.64063pt>
+File: k75.jpg Graphic file (type jpg)
+<use k75.jpg>
+Package pdftex.def Info: k75.jpg  used on input line 615.
+(pdftex.def)             Requested size: 204.76448pt x 37.64052pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 607--616
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 607--616
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 607--616
+
+ []
+
+<85.jpg, id=164, 389.20406pt x 38.39343pt>
+File: 85.jpg Graphic file (type jpg)
+<use 85.jpg>
+Package pdftex.def Info: 85.jpg  used on input line 626.
+(pdftex.def)             Requested size: 389.20311pt x 38.39333pt.
+<k85.jpg, id=165, 283.0575pt x 165.61874pt>
+File: k85.jpg Graphic file (type jpg)
+<use k85.jpg>
+Package pdftex.def Info: k85.jpg  used on input line 628.
+(pdftex.def)             Requested size: 283.0568pt x 165.61833pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 620--629
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 620--629
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 620--629
+
+ []
+
+[33 <./65.jpg> <./k65.jpg> <./75.jpg> <./k75.jpg> <./85.jpg>]
+<95.jpg, id=169, 393.72093pt x 17.31468pt>
+File: 95.jpg Graphic file (type jpg)
+<use 95.jpg>
+Package pdftex.def Info: 95.jpg  used on input line 640.
+(pdftex.def)             Requested size: 393.71997pt x 17.31462pt.
+<k95.jpg, id=170, 135.50626pt x 36.88782pt>
+File: k95.jpg Graphic file (type jpg)
+<use k95.jpg>
+Package pdftex.def Info: k95.jpg  used on input line 642.
+(pdftex.def)             Requested size: 135.5059pt x 36.88771pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 634--643
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 634--643
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 634--643
+
+ []
+
+<105.jpg, id=171, 381.67593pt x 45.16875pt>
+File: 105.jpg Graphic file (type jpg)
+<use 105.jpg>
+Package pdftex.def Info: 105.jpg  used on input line 655.
+(pdftex.def)             Requested size: 381.675pt x 45.16862pt.
+<k105.jpg, id=172, 153.57375pt x 137.7647pt>
+File: k105.jpg Graphic file (type jpg)
+<use k105.jpg>
+Package pdftex.def Info: k105.jpg  used on input line 657.
+(pdftex.def)             Requested size: 153.57336pt x 137.76434pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 649--658
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 649--658
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 649--658
+
+ []
+
+[34 <./k85.jpg> <./95.jpg> <./k95.jpg> <./105.jpg>]
+<16.jpg, id=176, 295.1025pt x 40.65187pt>
+File: 16.jpg Graphic file (type jpg)
+<use 16.jpg>
+Package pdftex.def Info: 16.jpg  used on input line 670.
+(pdftex.def)             Requested size: 295.10176pt x 40.65176pt.
+<k16.jpg, id=177, 253.69781pt x 167.12437pt>
+File: k16.jpg Graphic file (type jpg)
+<use k16.jpg>
+Package pdftex.def Info: k16.jpg  used on input line 672.
+(pdftex.def)             Requested size: 253.69719pt x 167.12395pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 664--673
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 664--673
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 664--673
+
+ []
+
+<26a.jpg, id=178, 408.02437pt x 31.61812pt>
+File: 26a.jpg Graphic file (type jpg)
+<use 26a.jpg>
+Package pdftex.def Info: 26a.jpg  used on input line 685.
+(pdftex.def)             Requested size: 408.02338pt x 31.61803pt.
+<26b.jpg, id=179, 409.53pt x 40.65187pt>
+File: 26b.jpg Graphic file (type jpg)
+<use 26b.jpg>
+Package pdftex.def Info: 26b.jpg  used on input line 686.
+(pdftex.def)             Requested size: 409.52899pt x 40.65176pt.
+<k26a.jpg, id=180, 297.36093pt x 166.37157pt>
+File: k26a.jpg Graphic file (type jpg)
+<use k26a.jpg>
+Package pdftex.def Info: k26a.jpg  used on input line 688.
+(pdftex.def)             Requested size: 297.3602pt x 166.37114pt.
+<k26b.jpg, id=181, 304.88907pt x 166.37157pt>
+File: k26b.jpg Graphic file (type jpg)
+<use k26b.jpg>
+Package pdftex.def Info: k26b.jpg  used on input line 689.
+(pdftex.def)             Requested size: 304.88832pt x 166.37114pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 679--690
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 679--690
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 679--690
+
+ []
+
+[35 <./k105.jpg> <./16.jpg> <./k16.jpg>]
+<36.jpg, id=185, 420.82219pt x 30.1125pt>
+File: 36.jpg Graphic file (type jpg)
+<use 36.jpg>
+Package pdftex.def Info: 36.jpg  used on input line 701.
+(pdftex.def)             Requested size: 420.82115pt x 30.11241pt.
+<k36.jpg, id=186, 276.28218pt x 165.61874pt>
+File: k36.jpg Graphic file (type jpg)
+<use k36.jpg>
+Package pdftex.def Info: k36.jpg  used on input line 703.
+(pdftex.def)             Requested size: 276.2815pt x 165.61833pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 695--704
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 695--704
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 695--704
+
+ []
+
+[36 <./26a.jpg> <./26b.jpg> <./k26a.jpg> <./k26b.jpg> <./36.jpg>]
+<46.jpg, id=190, 468.24937pt x 46.67438pt>
+File: 46.jpg Graphic file (type jpg)
+<use 46.jpg>
+Package pdftex.def Info: 46.jpg  used on input line 715.
+(pdftex.def)             Requested size: 468.24821pt x 46.67424pt.
+<k46.jpg, id=191, 203.25937pt x 167.12437pt>
+File: k46.jpg Graphic file (type jpg)
+<use k46.jpg>
+Package pdftex.def Info: k46.jpg  used on input line 717.
+(pdftex.def)             Requested size: 203.25887pt x 167.12395pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 709--718
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 709--718
+
+ []
+
+
+Overfull \hbox (27.23048pt too wide) in paragraph at lines 709--718
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 709--718
+
+ []
+
+<56.jpg, id=192, 297.36093pt x 48.93282pt>
+File: 56.jpg Graphic file (type jpg)
+<use 56.jpg>
+Package pdftex.def Info: 56.jpg  used on input line 734.
+(pdftex.def)             Requested size: 297.3602pt x 48.93268pt.
+<k56.jpg, id=193, 172.39406pt x 166.37157pt>
+File: k56.jpg Graphic file (type jpg)
+<use k56.jpg>
+Package pdftex.def Info: k56.jpg  used on input line 736.
+(pdftex.def)             Requested size: 172.39363pt x 166.37114pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 728--737
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 728--737
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 728--737
+
+ []
+
+[37 <./k36.jpg> <./46.jpg> <./k46.jpg>]
+<66.jpg, id=198, 365.86688pt x 45.92157pt>
+File: 66.jpg Graphic file (type jpg)
+<use 66.jpg>
+Package pdftex.def Info: 66.jpg  used on input line 750.
+(pdftex.def)             Requested size: 365.86598pt x 45.92145pt.
+<k66.jpg, id=199, 138.5175pt x 47.42719pt>
+File: k66.jpg Graphic file (type jpg)
+<use k66.jpg>
+Package pdftex.def Info: k66.jpg  used on input line 752.
+(pdftex.def)             Requested size: 138.51715pt x 47.42706pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 744--753
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 744--753
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 744--753
+
+ []
+
+[38 <./56.jpg> <./k56.jpg> <./66.jpg>]
+<76.jpg, id=203, 423.08063pt x 40.65187pt>
+File: 76.jpg Graphic file (type jpg)
+<use 76.jpg>
+Package pdftex.def Info: 76.jpg  used on input line 764.
+(pdftex.def)             Requested size: 423.07959pt x 40.65176pt.
+<k76.jpg, id=204, 166.37157pt x 166.37157pt>
+File: k76.jpg Graphic file (type jpg)
+<use k76.jpg>
+Package pdftex.def Info: k76.jpg  used on input line 766.
+(pdftex.def)             Requested size: 166.37114pt x 166.37114pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 758--767
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 758--767
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 758--767
+
+ []
+
+<18.jpg, id=205, 213.04594pt x 59.47218pt>
+File: 18.jpg Graphic file (type jpg)
+<use 18.jpg>
+Package pdftex.def Info: 18.jpg  used on input line 787.
+(pdftex.def)             Requested size: 213.04541pt x 59.47203pt.
+<k18.jpg, id=206, 225.09094pt x 169.38281pt>
+File: k18.jpg Graphic file (type jpg)
+<use k18.jpg>
+Package pdftex.def Info: k18.jpg  used on input line 789.
+(pdftex.def)             Requested size: 225.09038pt x 169.38239pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 781--790
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 781--790
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 781--790
+
+ []
+
+[39 <./k66.jpg> <./76.jpg> <./k76.jpg>]
+<28.jpg, id=210, 246.9225pt x 68.50594pt>
+File: 28.jpg Graphic file (type jpg)
+<use 28.jpg>
+Package pdftex.def Info: 28.jpg  used on input line 802.
+(pdftex.def)             Requested size: 246.92188pt x 68.50577pt.
+<k28.jpg, id=211, 285.31593pt x 167.12437pt>
+File: k28.jpg Graphic file (type jpg)
+<use k28.jpg>
+Package pdftex.def Info: k28.jpg  used on input line 804.
+(pdftex.def)             Requested size: 285.31523pt x 167.12395pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 796--805
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 796--805
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 796--805
+
+ []
+
+[40 <./18.jpg> <./k18.jpg>]
+<38.jpg, id=215, 203.25937pt x 42.1575pt>
+File: 38.jpg Graphic file (type jpg)
+<use 38.jpg>
+Package pdftex.def Info: 38.jpg  used on input line 822.
+(pdftex.def)             Requested size: 203.25887pt x 42.15738pt.
+<k38.jpg, id=216, 226.59656pt x 168.63pt>
+File: k38.jpg Graphic file (type jpg)
+<use k38.jpg>
+Package pdftex.def Info: k38.jpg  used on input line 824.
+(pdftex.def)             Requested size: 226.596pt x 168.62958pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 816--825
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 816--825
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 816--825
+
+ []
+
+[41 <./28.jpg> <./k28.jpg> <./38.jpg>]
+<48.jpg, id=220, 314.67563pt x 42.91031pt>
+File: 48.jpg Graphic file (type jpg)
+<use 48.jpg>
+Package pdftex.def Info: 48.jpg  used on input line 841.
+(pdftex.def)             Requested size: 314.67485pt x 42.91019pt.
+<k48.jpg, id=221, 220.57407pt x 165.61874pt>
+File: k48.jpg Graphic file (type jpg)
+<use k48.jpg>
+Package pdftex.def Info: k48.jpg  used on input line 843.
+(pdftex.def)             Requested size: 220.57352pt x 165.61833pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 835--844
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 835--844
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 835--844
+
+ []
+
+<111.jpg, id=222, 293.59688pt x 18.82031pt>
+File: 111.jpg Graphic file (type jpg)
+<use 111.jpg>
+Package pdftex.def Info: 111.jpg  used on input line 860.
+(pdftex.def)             Requested size: 293.59615pt x 18.82025pt.
+<k111.jpg, id=223, 211.54031pt x 169.38281pt>
+File: k111.jpg Graphic file (type jpg)
+<use k111.jpg>
+Package pdftex.def Info: k111.jpg  used on input line 862.
+(pdftex.def)             Requested size: 211.53978pt x 169.38239pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 854--863
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 854--863
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 854--863
+
+ []
+
+[42 <./k38.jpg> <./48.jpg> <./k48.jpg>]
+<211.jpg, id=227, 323.70938pt x 42.91031pt>
+File: 211.jpg Graphic file (type jpg)
+<use 211.jpg>
+Package pdftex.def Info: 211.jpg  used on input line 875.
+(pdftex.def)             Requested size: 323.70859pt x 42.91019pt.
+<k211.jpg, id=228, 85.82062pt x 51.94406pt>
+File: k211.jpg Graphic file (type jpg)
+<use k211.jpg>
+Package pdftex.def Info: k211.jpg  used on input line 877.
+(pdftex.def)             Requested size: 85.82039pt x 51.94392pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 869--878
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 869--878
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 869--878
+
+ []
+
+<311.jpg, id=229, 313.17pt x 40.65187pt>
+File: 311.jpg Graphic file (type jpg)
+<use 311.jpg>
+Package pdftex.def Info: 311.jpg  used on input line 892.
+(pdftex.def)             Requested size: 313.16922pt x 40.65176pt.
+<k311.jpg, id=230, 136.25906pt x 169.38281pt>
+File: k311.jpg Graphic file (type jpg)
+<use k311.jpg>
+Package pdftex.def Info: k311.jpg  used on input line 894.
+(pdftex.def)             Requested size: 136.25871pt x 169.38239pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 886--895
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 886--895
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 886--895
+
+ []
+
+[43 <./111.jpg> <./k111.jpg> <./211.jpg> <./k211.jpg>] [44 <./311.jpg> <./k311.
+jpg>]
+Ch\uhorn \ohorn ng 4.
+<bang.jpg, id=238, 379.4175pt x 213.04594pt>
+File: bang.jpg Graphic file (type jpg)
+<use bang.jpg>
+Package pdftex.def Info: bang.jpg  used on input line 905.
+(pdftex.def)             Requested size: 265.59042pt x 149.13113pt.
+<b1v1.jpg, id=239, 429.10312pt x 70.76437pt>
+File: b1v1.jpg Graphic file (type jpg)
+<use b1v1.jpg>
+Package pdftex.def Info: b1v1.jpg  used on input line 911.
+(pdftex.def)             Requested size: 429.10207pt x 70.76419pt.
+<b1v2.jpg, id=240, 238.64156pt x 41.4047pt>
+File: b1v2.jpg Graphic file (type jpg)
+<use b1v2.jpg>
+Package pdftex.def Info: b1v2.jpg  used on input line 913.
+(pdftex.def)             Requested size: 238.64096pt x 41.40457pt.
+[45
+
+ <./bang.jpg> <./b1v1.jpg>]
+<b1v3.jpg, id=244, 261.22594pt x 53.44969pt>
+File: b1v3.jpg Graphic file (type jpg)
+<use b1v3.jpg>
+Package pdftex.def Info: b1v3.jpg  used on input line 915.
+(pdftex.def)             Requested size: 261.22528pt x 53.44954pt.
+File: b1v2.jpg Graphic file (type jpg)
+<use b1v2.jpg>
+Package pdftex.def Info: b1v2.jpg  used on input line 917.
+(pdftex.def)             Requested size: 238.64096pt x 41.40457pt.
+<b1o.jpg, id=245, 446.41782pt x 243.15843pt>
+File: b1o.jpg Graphic file (type jpg)
+<use b1o.jpg>
+Package pdftex.def Info: b1o.jpg  used on input line 919.
+(pdftex.def)             Requested size: 446.41672pt x 243.15784pt.
+
+Overfull \hbox (5.39899pt too wide) in paragraph at lines 919--920
+[] 
+ []
+
+<kb1o.jpg, id=246, 231.11343pt x 53.44969pt>
+File: kb1o.jpg Graphic file (type jpg)
+<use kb1o.jpg>
+Package pdftex.def Info: kb1o.jpg  used on input line 921.
+(pdftex.def)             Requested size: 231.11287pt x 53.44954pt.
+<b1s1.jpg, id=247, 246.1697pt x 204.765pt>
+File: b1s1.jpg Graphic file (type jpg)
+<use b1s1.jpg>
+Package pdftex.def Info: b1s1.jpg  used on input line 925.
+(pdftex.def)             Requested size: 246.16908pt x 204.76448pt.
+<b1s2.jpg, id=248, 261.22594pt x 146.04562pt>
+File: b1s2.jpg Graphic file (type jpg)
+<use b1s2.jpg>
+Package pdftex.def Info: b1s2.jpg  used on input line 926.
+(pdftex.def)             Requested size: 261.22528pt x 146.04524pt.
+<bts3.jpg, id=249, 497.60907pt x 341.77687pt>
+File: bts3.jpg Graphic file (type jpg)
+<use bts3.jpg>
+Package pdftex.def Info: bts3.jpg  used on input line 927.
+(pdftex.def)             Requested size: 447.84402pt x 307.59633pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 924--928
+
+ []
+
+
+Overfull \hbox (6.8263pt too wide) in paragraph at lines 924--928
+[] 
+ []
+
+[46 <./b1v2.jpg> <./b1v3.jpg> <./b1o.jpg> <./kb1o.jpg>] [47 <./b1s1.jpg> <./b1s
+2.jpg>]
+<b1s.jpg, id=256, 253.69781pt x 68.50594pt>
+File: b1s.jpg Graphic file (type jpg)
+<use b1s.jpg>
+Package pdftex.def Info: b1s.jpg  used on input line 929.
+(pdftex.def)             Requested size: 253.69719pt x 68.50577pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 929--930
+
+ []
+
+<b2o1.jpg, id=257, 475.02469pt x 245.41687pt>
+File: b2o1.jpg Graphic file (type jpg)
+<use b2o1.jpg>
+Package pdftex.def Info: b2o1.jpg  used on input line 940.
+(pdftex.def)             Requested size: 403.77287pt x 208.60532pt.
+[48 <./bts3.jpg> <./b1s.jpg>]
+<b2o2.jpg, id=261, 555.57562pt x 320.69812pt>
+File: b2o2.jpg Graphic file (type jpg)
+<use b2o2.jpg>
+Package pdftex.def Info: b2o2.jpg  used on input line 942.
+(pdftex.def)             Requested size: 472.2415pt x 272.59468pt.
+
+Overfull \hbox (31.22377pt too wide) in paragraph at lines 942--943
+[] 
+ []
+
+<kb2o.jpg, id=262, 785.93625pt x 225.09094pt>
+File: kb2o.jpg Graphic file (type jpg)
+<use kb2o.jpg>
+Package pdftex.def Info: kb2o.jpg  used on input line 944.
+(pdftex.def)             Requested size: 447.98831pt x 128.30316pt.
+
+Overfull \hbox (6.97058pt too wide) in paragraph at lines 944--945
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 944--945
+
+ []
+
+[49 <./b2o1.jpg> <./b2o2.jpg>]
+<b2s1.jpg, id=267, 474.27188pt x 246.1697pt>
+File: b2s1.jpg Graphic file (type jpg)
+<use b2s1.jpg>
+Package pdftex.def Info: b2s1.jpg  used on input line 947.
+(pdftex.def)             Requested size: 426.84074pt x 221.55066pt.
+<b2s2.jpg, id=268, 356.83313pt x 303.38344pt>
+File: b2s2.jpg Graphic file (type jpg)
+<use b2s2.jpg>
+Package pdftex.def Info: b2s2.jpg  used on input line 949.
+(pdftex.def)             Requested size: 321.14684pt x 273.04256pt.
+ [50 <./kb2o.jpg> <./b2s1.jpg>]
+<kb2s.jpg, id=272, 758.08218pt x 249.93375pt>
+File: kb2s.jpg Graphic file (type jpg)
+<use kb2s.jpg>
+Package pdftex.def Info: kb2s.jpg  used on input line 951.
+(pdftex.def)             Requested size: 439.68797pt x 144.96167pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 951--952
+
+ []
+
+[51 <./b2s2.jpg> <./kb2s.jpg>]
+<b3o1.jpg, id=276, 342.5297pt x 129.48375pt>
+File: b3o1.jpg Graphic file (type jpg)
+<use b3o1.jpg>
+Package pdftex.def Info: b3o1.jpg  used on input line 962.
+(pdftex.def)             Requested size: 342.52885pt x 129.48341pt.
+<b3o2.jpg, id=277, 487.06969pt x 389.95688pt>
+File: b3o2.jpg Graphic file (type jpg)
+<use b3o2.jpg>
+Package pdftex.def Info: b3o2.jpg  used on input line 964.
+(pdftex.def)             Requested size: 448.1021pt x 358.75873pt.
+
+Overfull \hbox (7.08437pt too wide) in paragraph at lines 964--965
+[] 
+ []
+
+[52 <./b3o1.jpg>]
+<rb3o.jpg, id=281, 282.30469pt x 156.585pt>
+File: rb3o.jpg Graphic file (type jpg)
+<use rb3o.jpg>
+Package pdftex.def Info: rb3o.jpg  used on input line 966.
+(pdftex.def)             Requested size: 282.30399pt x 156.58461pt.
+<kb3o.jpg, id=282, 798.73407pt x 240.14719pt>
+File: kb3o.jpg Graphic file (type jpg)
+<use kb3o.jpg>
+Package pdftex.def Info: kb3o.jpg  used on input line 967.
+(pdftex.def)             Requested size: 439.3051pt x 132.08134pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 966--968
+
+ []
+
+[53 <./b3o2.jpg> <./rb3o.jpg>]
+<b3s1.jpg, id=286, 424.58624pt x 237.88875pt>
+File: b3s1.jpg Graphic file (type jpg)
+<use b3s1.jpg>
+Package pdftex.def Info: b3s1.jpg  used on input line 969.
+(pdftex.def)             Requested size: 382.12408pt x 214.09789pt.
+<b3s2.jpg, id=287, 424.58624pt x 353.06906pt>
+File: b3s2.jpg Graphic file (type jpg)
+<use b3s2.jpg>
+Package pdftex.def Info: b3s2.jpg  used on input line 970.
+(pdftex.def)             Requested size: 382.12408pt x 317.75922pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 969--971
+
+ []
+
+[54 <./kb3o.jpg> <./b3s1.jpg>]
+<kb3s.jpg, id=291, 632.3625pt x 260.47313pt>
+File: kb3s.jpg Graphic file (type jpg)
+<use kb3s.jpg>
+Package pdftex.def Info: kb3s.jpg  used on input line 972.
+(pdftex.def)             Requested size: 442.65074pt x 182.32994pt.
+
+Overfull \hbox (1.63301pt too wide) in paragraph at lines 972--973
+[] 
+ []
+
+[55 <./b3s2.jpg> <./kb3s.jpg>] [56] [57] ([CSDLNC][BC][LATEX].aux)
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 1.0pt have occurred.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 5135 strings out of 492970
+ 70801 string characters out of 3126594
+ 160276 words of memory out of 3000000
+ 8797 multiletter control sequences out of 15000+200000
+ 24642 words of font info for 58 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 51i,8n,55p,2008b,275s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/hoang/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
+/cm/cmmi12.pfb><C:/Users/hoang/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmsy10.pfb><C:/Users/hoang/AppData/Local/Programs/MiKTeX 2.9/f
+onts/type1/vntex/vnr/vnbx12.pfb><C:/Users/hoang/AppData/Local/Programs/MiKTeX 2
+.9/fonts/type1/vntex/vnr/vnr12.pfb><C:/Users/hoang/AppData/Local/Programs/MiKTe
+X 2.9/fonts/type1/vntex/vnr/vnti12.pfb>
+Output written on [CSDLNC][BC][LATEX].pdf (57 pages, 3121685 bytes).
+PDF statistics:
+ 321 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 576 words of extra memory for PDF output out of 10000 (max. 10000000)
+
