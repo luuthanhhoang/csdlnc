@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2019.5.10)  28 JUN 2020 03:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2019.5.10)  28 JUN 2020 11:16
 entering extended mode
 **./[CSDLNC][BC][LATEX].tex
 ([CSDLNC][BC][LATEX].tex
@@ -386,23 +386,37 @@ basics and keyval usage)
 ("C:\Users\hoang\AppData\Local\Programs\MiKTeX 2.9\tex\latex\koma-script\scrlfi
 le.sty"
 Package: scrlfile 2019/10/12 v3.27 KOMA-Script package (loading files)
-)))) ([CSDLNC][BC][LATEX].aux)
+))))
+("C:\Users\hoang\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.
+sty"
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip50
+\f@nch@O@elh=\skip51
+\f@nch@O@erh=\skip52
+\f@nch@O@olh=\skip53
+\f@nch@O@orh=\skip54
+\f@nch@O@elf=\skip55
+\f@nch@O@erf=\skip56
+\f@nch@O@olf=\skip57
+\f@nch@O@orf=\skip58
+) ([CSDLNC][BC][LATEX].aux)
 \openout1 = `[CSDLNC][BC][LATEX].aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
 
 ("C:\Users\hoang\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\mkii\supp-p
 df.mkii"
@@ -514,30 +528,30 @@ G,.JBIG2,.JB2,.eps]
 <bk.png, id=1, 225.84375pt x 336.50719pt>
 File: bk.png Graphic file (type png)
 <use bk.png>
-Package pdftex.def Info: bk.png  used on input line 28.
+Package pdftex.def Info: bk.png  used on input line 38.
 (pdftex.def)             Requested size: 112.92159pt x 168.25317pt.
-LaTeX Font Info:    Calculating math sizes for size <14> on input line 40.
-LaTeX Font Info:    Try loading font information for U+msa on input line 40.
+LaTeX Font Info:    Calculating math sizes for size <14> on input line 50.
+LaTeX Font Info:    Try loading font information for U+msa on input line 50.
 ("C:\Users\hoang\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 40.
+LaTeX Font Info:    Try loading font information for U+msb on input line 50.
 ("C:\Users\hoang\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
 {C:/Users/hoang/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./bk.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 52--56
+Underfull \hbox (badness 10000) in paragraph at lines 64--68
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--56
+Underfull \hbox (badness 10000) in paragraph at lines 64--68
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--56
+Underfull \hbox (badness 10000) in paragraph at lines 64--68
 
  []
 
@@ -572,7 +586,14 @@ LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <6.5> not available
 
 [3
 
-] [4] [5])
+]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+Make it at least 14.93912pt.
+We now make it that large for the rest of the document.
+This may cause the page layout to be inconsistent, however.
+
+[4] [5])
 \tf@toc=\write4
 \openout4 = `[CSDLNC][BC][LATEX].toc'.
 
@@ -581,15 +602,15 @@ Ch\uhorn \ohorn ng 1.
 <b-1-1.jpg, id=24, 462.22687pt x 284.56313pt>
 File: b-1-1.jpg Graphic file (type jpg)
 <use b-1-1.jpg>
-Package pdftex.def Info: b-1-1.jpg  used on input line 64.
+Package pdftex.def Info: b-1-1.jpg  used on input line 76.
 (pdftex.def)             Requested size: 323.5566pt x 199.19283pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 59--67
+Underfull \hbox (badness 10000) in paragraph at lines 71--79
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 59--67
+Underfull \hbox (badness 10000) in paragraph at lines 71--79
 
  []
 
@@ -602,40 +623,40 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 <b-2.jpg, id=29, 545.03625pt x 280.04625pt>
 File: b-2.jpg Graphic file (type jpg)
 <use b-2.jpg>
-Package pdftex.def Info: b-2.jpg  used on input line 81.
+Package pdftex.def Info: b-2.jpg  used on input line 93.
 (pdftex.def)             Requested size: 327.02428pt x 168.02904pt.
  [8 <./b-1-1.jpg>]
 <b-3.jpg, id=33, 494.59781pt x 321.45094pt>
 File: b-3.jpg Graphic file (type jpg)
 <use b-3.jpg>
-Package pdftex.def Info: b-3.jpg  used on input line 90.
+Package pdftex.def Info: b-3.jpg  used on input line 102.
 (pdftex.def)             Requested size: 296.76097pt x 192.87204pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [9 <./b-2.jpg>] [10 <./b-3.jpg>] [11]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 109.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 121.
 
 
 ("C:\Users\hoang\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <13> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 109.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 121.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <13> not available
-(Font)              size <12> substituted on input line 109.
+(Font)              size <12> substituted on input line 121.
 
 [12]
 <b-1.jpg, id=47, 1003.75pt x 465.74pt>
 File: b-1.jpg Graphic file (type jpg)
 <use b-1.jpg>
-Package pdftex.def Info: b-1.jpg  used on input line 120.
+Package pdftex.def Info: b-1.jpg  used on input line 132.
 (pdftex.def)             Requested size: 301.12732pt x 139.72307pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 125--127
+Underfull \hbox (badness 10000) in paragraph at lines 137--139
 
  []
 
@@ -644,12 +665,12 @@ Ch\uhorn \ohorn ng 2.
 [15
 
 ] [16] [17] [18]
-Overfull \hbox (8.70348pt too wide) in paragraph at lines 222--222
+Overfull \hbox (8.70348pt too wide) in paragraph at lines 234--234
 []\T5/cmr/bx/n/15.59996 Trong suèt ph¥n o¤n (Frag-men-ta-tion trans-parency) 
  []
 
 
-Overfull \hbox (5.65294pt too wide) in paragraph at lines 227--227
+Overfull \hbox (5.65294pt too wide) in paragraph at lines 239--239
 []\T5/cmr/bx/n/15.59996 Trong suèt ¡nh x¤ àa ph÷ìng (Lo-cal map-ping trans-
  []
 
@@ -658,45 +679,45 @@ Ch\uhorn \ohorn ng 3.
 <p1.jpg, id=72, 323.70938pt x 65.49469pt>
 File: p1.jpg Graphic file (type jpg)
 <use p1.jpg>
-Package pdftex.def Info: p1.jpg  used on input line 246.
+Package pdftex.def Info: p1.jpg  used on input line 258.
 (pdftex.def)             Requested size: 323.70859pt x 65.4945pt.
 <kp1.jpg, id=73, 107.65219pt x 21.07875pt>
 File: kp1.jpg Graphic file (type jpg)
 <use kp1.jpg>
-Package pdftex.def Info: kp1.jpg  used on input line 248.
+Package pdftex.def Info: kp1.jpg  used on input line 260.
 (pdftex.def)             Requested size: 107.65192pt x 21.07867pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 240--249
+Underfull \hbox (badness 10000) in paragraph at lines 252--261
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 240--249
+Underfull \hbox (badness 10000) in paragraph at lines 252--261
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 240--249
+Underfull \hbox (badness 10000) in paragraph at lines 252--261
 
  []
 
 <p2.jpg, id=74, 292.09125pt x 91.09032pt>
 File: p2.jpg Graphic file (type jpg)
 <use p2.jpg>
-Package pdftex.def Info: p2.jpg  used on input line 257.
+Package pdftex.def Info: p2.jpg  used on input line 269.
 (pdftex.def)             Requested size: 292.09052pt x 91.09007pt.
 <kp2.jpg, id=75, 95.6072pt x 17.31468pt>
 File: kp2.jpg Graphic file (type jpg)
 <use kp2.jpg>
-Package pdftex.def Info: kp2.jpg  used on input line 259.
+Package pdftex.def Info: kp2.jpg  used on input line 271.
 (pdftex.def)             Requested size: 95.60695pt x 17.31462pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 253--260
+Underfull \hbox (badness 10000) in paragraph at lines 265--272
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 253--260
+Underfull \hbox (badness 10000) in paragraph at lines 265--272
 
  []
 
@@ -706,50 +727,50 @@ Underfull \hbox (badness 10000) in paragraph at lines 253--260
 <p3.jpg, id=79, 365.11406pt x 117.43875pt>
 File: p3.jpg Graphic file (type jpg)
 <use p3.jpg>
-Package pdftex.def Info: p3.jpg  used on input line 268.
+Package pdftex.def Info: p3.jpg  used on input line 280.
 (pdftex.def)             Requested size: 365.11316pt x 117.43845pt.
 <kp3.jpg, id=80, 100.12407pt x 18.82031pt>
 File: kp3.jpg Graphic file (type jpg)
 <use kp3.jpg>
-Package pdftex.def Info: kp3.jpg  used on input line 270.
+Package pdftex.def Info: kp3.jpg  used on input line 282.
 (pdftex.def)             Requested size: 100.12381pt x 18.82025pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 264--271
+Underfull \hbox (badness 10000) in paragraph at lines 276--283
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 264--271
+Underfull \hbox (badness 10000) in paragraph at lines 276--283
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 264--271
+Underfull \hbox (badness 10000) in paragraph at lines 276--283
 
  []
 
 <p4.jpg, id=81, 268.00125pt x 51.19125pt>
 File: p4.jpg Graphic file (type jpg)
 <use p4.jpg>
-Package pdftex.def Info: p4.jpg  used on input line 279.
+Package pdftex.def Info: p4.jpg  used on input line 291.
 (pdftex.def)             Requested size: 268.00058pt x 51.19112pt.
 <kp4.jpg, id=82, 136.25906pt x 17.31468pt>
 File: kp4.jpg Graphic file (type jpg)
 <use kp4.jpg>
-Package pdftex.def Info: kp4.jpg  used on input line 281.
+Package pdftex.def Info: kp4.jpg  used on input line 293.
 (pdftex.def)             Requested size: 136.25871pt x 17.31462pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 275--282
+Underfull \hbox (badness 10000) in paragraph at lines 287--294
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 275--282
+Underfull \hbox (badness 10000) in paragraph at lines 287--294
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 275--282
+Underfull \hbox (badness 10000) in paragraph at lines 287--294
 
  []
 
@@ -757,65 +778,65 @@ Underfull \hbox (badness 10000) in paragraph at lines 275--282
 <p5.jpg, id=86, 85.82062pt x 14.30344pt>
 File: p5.jpg Graphic file (type jpg)
 <use p5.jpg>
-Package pdftex.def Info: p5.jpg  used on input line 290.
+Package pdftex.def Info: p5.jpg  used on input line 302.
 (pdftex.def)             Requested size: 85.82039pt x 14.30339pt.
 <kp5.jpg, id=87, 106.14656pt x 15.05624pt>
 File: kp5.jpg Graphic file (type jpg)
 <use kp5.jpg>
-Package pdftex.def Info: kp5.jpg  used on input line 292.
+Package pdftex.def Info: kp5.jpg  used on input line 304.
 (pdftex.def)             Requested size: 106.1463pt x 15.0562pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 286--293
+Underfull \hbox (badness 10000) in paragraph at lines 298--305
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 286--293
+Underfull \hbox (badness 10000) in paragraph at lines 298--305
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 286--293
+Underfull \hbox (badness 10000) in paragraph at lines 298--305
 
  []
 
 <p6.jpg, id=88, 188.95593pt x 52.69687pt>
 File: p6.jpg Graphic file (type jpg)
 <use p6.jpg>
-Package pdftex.def Info: p6.jpg  used on input line 301.
+Package pdftex.def Info: p6.jpg  used on input line 313.
 (pdftex.def)             Requested size: 188.95546pt x 52.69673pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 297--302
+Underfull \hbox (badness 10000) in paragraph at lines 309--314
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 297--302
+Underfull \hbox (badness 10000) in paragraph at lines 309--314
 
  []
 
 <p13.jpg, id=89, 380.17032pt x 52.69687pt>
 File: p13.jpg Graphic file (type jpg)
 <use p13.jpg>
-Package pdftex.def Info: p13.jpg  used on input line 313.
+Package pdftex.def Info: p13.jpg  used on input line 325.
 (pdftex.def)             Requested size: 380.16939pt x 52.69673pt.
 <kp13.jpg, id=90, 140.02313pt x 15.80907pt>
 File: kp13.jpg Graphic file (type jpg)
 <use kp13.jpg>
-Package pdftex.def Info: kp13.jpg  used on input line 315.
+Package pdftex.def Info: kp13.jpg  used on input line 327.
 (pdftex.def)             Requested size: 140.02278pt x 15.809pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 307--316
+Underfull \hbox (badness 10000) in paragraph at lines 319--328
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 307--316
+Underfull \hbox (badness 10000) in paragraph at lines 319--328
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 307--316
+Underfull \hbox (badness 10000) in paragraph at lines 319--328
 
  []
 
@@ -823,50 +844,50 @@ Underfull \hbox (badness 10000) in paragraph at lines 307--316
 <p23.jpg, id=94, 146.79843pt x 15.80907pt>
 File: p23.jpg Graphic file (type jpg)
 <use p23.jpg>
-Package pdftex.def Info: p23.jpg  used on input line 326.
+Package pdftex.def Info: p23.jpg  used on input line 338.
 (pdftex.def)             Requested size: 146.79807pt x 15.809pt.
 <kp23.jpg, id=95, 268.75406pt x 163.3603pt>
 File: kp23.jpg Graphic file (type jpg)
 <use kp23.jpg>
-Package pdftex.def Info: kp23.jpg  used on input line 328.
+Package pdftex.def Info: kp23.jpg  used on input line 340.
 (pdftex.def)             Requested size: 268.7534pt x 163.3599pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 320--329
+Underfull \hbox (badness 10000) in paragraph at lines 332--341
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 320--329
+Underfull \hbox (badness 10000) in paragraph at lines 332--341
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 320--329
+Underfull \hbox (badness 10000) in paragraph at lines 332--341
 
  []
 
 <p33.jpg, id=96, 267.24844pt x 17.31468pt>
 File: p33.jpg Graphic file (type jpg)
 <use p33.jpg>
-Package pdftex.def Info: p33.jpg  used on input line 339.
+Package pdftex.def Info: p33.jpg  used on input line 351.
 (pdftex.def)             Requested size: 267.24779pt x 17.31462pt.
 <kp33.jpg, id=97, 173.89969pt x 167.87718pt>
 File: kp33.jpg Graphic file (type jpg)
 <use kp33.jpg>
-Package pdftex.def Info: kp33.jpg  used on input line 341.
+Package pdftex.def Info: kp33.jpg  used on input line 353.
 (pdftex.def)             Requested size: 173.89925pt x 167.87677pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 333--342
+Underfull \hbox (badness 10000) in paragraph at lines 345--354
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 333--342
+Underfull \hbox (badness 10000) in paragraph at lines 345--354
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 333--342
+Underfull \hbox (badness 10000) in paragraph at lines 345--354
 
  []
 
@@ -874,35 +895,35 @@ Underfull \hbox (badness 10000) in paragraph at lines 333--342
 <p43.jpg, id=101, 571.38469pt x 92.59593pt>
 File: p43.jpg Graphic file (type jpg)
 <use p43.jpg>
-Package pdftex.def Info: p43.jpg  used on input line 356.
+Package pdftex.def Info: p43.jpg  used on input line 368.
 (pdftex.def)             Requested size: 445.67825pt x 72.22452pt.
 <kp43.jpg, id=102, 188.20313pt x 164.11313pt>
 File: kp43.jpg Graphic file (type jpg)
 <use kp43.jpg>
-Package pdftex.def Info: kp43.jpg  used on input line 358.
+Package pdftex.def Info: kp43.jpg  used on input line 370.
 (pdftex.def)             Requested size: 188.20265pt x 164.11272pt.
 <kp432.jpg, id=103, 106.89937pt x 16.56187pt>
 File: kp432.jpg Graphic file (type jpg)
 <use kp432.jpg>
-Package pdftex.def Info: kp432.jpg  used on input line 359.
+Package pdftex.def Info: kp432.jpg  used on input line 371.
 (pdftex.def)             Requested size: 106.8991pt x 16.56183pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 350--360
+Underfull \hbox (badness 10000) in paragraph at lines 362--372
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 350--360
+Underfull \hbox (badness 10000) in paragraph at lines 362--372
 
  []
 
 
-Overfull \hbox (4.66052pt too wide) in paragraph at lines 350--360
+Overfull \hbox (4.66052pt too wide) in paragraph at lines 362--372
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 350--360
+Underfull \hbox (badness 10000) in paragraph at lines 362--372
 
  []
 
@@ -910,45 +931,45 @@ Underfull \hbox (badness 10000) in paragraph at lines 350--360
 <p53.jpg, id=107, 402.00188pt x 108.405pt>
 File: p53.jpg Graphic file (type jpg)
 <use p53.jpg>
-Package pdftex.def Info: p53.jpg  used on input line 374.
+Package pdftex.def Info: p53.jpg  used on input line 386.
 (pdftex.def)             Requested size: 402.00089pt x 108.40472pt.
 <kp53.jpg, id=108, 146.79843pt x 126.4725pt>
 File: kp53.jpg Graphic file (type jpg)
 <use kp53.jpg>
-Package pdftex.def Info: kp53.jpg  used on input line 376.
+Package pdftex.def Info: kp53.jpg  used on input line 388.
 (pdftex.def)             Requested size: 132.11736pt x 113.82419pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 368--377
+Underfull \hbox (badness 10000) in paragraph at lines 380--389
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 368--377
+Underfull \hbox (badness 10000) in paragraph at lines 380--389
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 368--377
+Underfull \hbox (badness 10000) in paragraph at lines 380--389
 
  []
 
 <p63.jpg, id=109, 176.15813pt x 15.80907pt>
 File: p63.jpg Graphic file (type jpg)
 <use p63.jpg>
-Package pdftex.def Info: p63.jpg  used on input line 387.
+Package pdftex.def Info: p63.jpg  used on input line 399.
 (pdftex.def)             Requested size: 176.15768pt x 15.809pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 381--388
+Underfull \hbox (badness 10000) in paragraph at lines 393--400
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 381--388
+Underfull \hbox (badness 10000) in paragraph at lines 393--400
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 393--397
+Underfull \hbox (badness 10000) in paragraph at lines 405--409
 
  []
 
@@ -956,50 +977,50 @@ Underfull \hbox (badness 10000) in paragraph at lines 393--397
 <34.jpg, id=114, 281.55188pt x 27.85406pt>
 File: 34.jpg Graphic file (type jpg)
 <use 34.jpg>
-Package pdftex.def Info: 34.jpg  used on input line 407.
+Package pdftex.def Info: 34.jpg  used on input line 419.
 (pdftex.def)             Requested size: 281.55118pt x 27.85397pt.
 <k34.jpg, id=115, 214.55156pt x 166.37157pt>
 File: k34.jpg Graphic file (type jpg)
 <use k34.jpg>
-Package pdftex.def Info: k34.jpg  used on input line 409.
+Package pdftex.def Info: k34.jpg  used on input line 421.
 (pdftex.def)             Requested size: 214.55103pt x 166.37114pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 401--410
+Underfull \hbox (badness 10000) in paragraph at lines 413--422
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 401--410
+Underfull \hbox (badness 10000) in paragraph at lines 413--422
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 401--410
+Underfull \hbox (badness 10000) in paragraph at lines 413--422
 
  []
 
 <44.jpg, id=116, 219.82124pt x 18.0675pt>
 File: 44.jpg Graphic file (type jpg)
 <use 44.jpg>
-Package pdftex.def Info: 44.jpg  used on input line 420.
+Package pdftex.def Info: 44.jpg  used on input line 432.
 (pdftex.def)             Requested size: 219.8207pt x 18.06744pt.
 <k44.jpg, id=117, 96.36pt x 90.3375pt>
 File: k44.jpg Graphic file (type jpg)
 <use k44.jpg>
-Package pdftex.def Info: k44.jpg  used on input line 422.
+Package pdftex.def Info: k44.jpg  used on input line 434.
 (pdftex.def)             Requested size: 96.35974pt x 90.33727pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 414--423
+Underfull \hbox (badness 10000) in paragraph at lines 426--435
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 414--423
+Underfull \hbox (badness 10000) in paragraph at lines 426--435
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 414--423
+Underfull \hbox (badness 10000) in paragraph at lines 426--435
 
  []
 
@@ -1007,55 +1028,55 @@ Underfull \hbox (badness 10000) in paragraph at lines 414--423
 <54.jpg, id=121, 400.49625pt x 18.0675pt>
 File: 54.jpg Graphic file (type jpg)
 <use 54.jpg>
-Package pdftex.def Info: 54.jpg  used on input line 435.
+Package pdftex.def Info: 54.jpg  used on input line 447.
 (pdftex.def)             Requested size: 400.49527pt x 18.06744pt.
 <k54.jpg, id=122, 129.48375pt x 165.61874pt>
 File: k54.jpg Graphic file (type jpg)
 <use k54.jpg>
-Package pdftex.def Info: k54.jpg  used on input line 437.
+Package pdftex.def Info: k54.jpg  used on input line 449.
 (pdftex.def)             Requested size: 129.48341pt x 165.61833pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 429--438
+Underfull \hbox (badness 10000) in paragraph at lines 441--450
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 429--438
+Underfull \hbox (badness 10000) in paragraph at lines 441--450
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 429--438
+Underfull \hbox (badness 10000) in paragraph at lines 441--450
 
  []
 
 <64.jpg, id=123, 556.32843pt x 28.60687pt>
 File: 64.jpg Graphic file (type jpg)
 <use 64.jpg>
-Package pdftex.def Info: 64.jpg  used on input line 449.
+Package pdftex.def Info: 64.jpg  used on input line 461.
 (pdftex.def)             Requested size: 445.06335pt x 22.88551pt.
 <k64.jpg, id=124, 179.92218pt x 112.16907pt>
 File: k64.jpg Graphic file (type jpg)
 <use k64.jpg>
-Package pdftex.def Info: k64.jpg  used on input line 451.
+Package pdftex.def Info: k64.jpg  used on input line 463.
 (pdftex.def)             Requested size: 179.92174pt x 112.16878pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 443--452
+Underfull \hbox (badness 10000) in paragraph at lines 455--464
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 443--452
+Underfull \hbox (badness 10000) in paragraph at lines 455--464
 
  []
 
 
-Overfull \hbox (4.04562pt too wide) in paragraph at lines 443--452
+Overfull \hbox (4.04562pt too wide) in paragraph at lines 455--464
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 443--452
+Underfull \hbox (badness 10000) in paragraph at lines 455--464
 
  []
 
@@ -1063,55 +1084,55 @@ Underfull \hbox (badness 10000) in paragraph at lines 443--452
 <74.jpg, id=128, 299.61937pt x 42.91031pt>
 File: 74.jpg Graphic file (type jpg)
 <use 74.jpg>
-Package pdftex.def Info: 74.jpg  used on input line 463.
+Package pdftex.def Info: 74.jpg  used on input line 475.
 (pdftex.def)             Requested size: 299.61864pt x 42.91019pt.
 <k74.jpg, id=129, 218.31563pt x 166.37157pt>
 File: k74.jpg Graphic file (type jpg)
 <use k74.jpg>
-Package pdftex.def Info: k74.jpg  used on input line 465.
+Package pdftex.def Info: k74.jpg  used on input line 477.
 (pdftex.def)             Requested size: 218.31508pt x 166.37114pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 457--466
+Underfull \hbox (badness 10000) in paragraph at lines 469--478
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 457--466
+Underfull \hbox (badness 10000) in paragraph at lines 469--478
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 457--466
+Underfull \hbox (badness 10000) in paragraph at lines 469--478
 
  []
 
 <84.jpg, id=130, 464.4853pt x 20.32594pt>
 File: 84.jpg Graphic file (type jpg)
 <use 84.jpg>
-Package pdftex.def Info: 84.jpg  used on input line 476.
+Package pdftex.def Info: 84.jpg  used on input line 488.
 (pdftex.def)             Requested size: 441.25854pt x 19.30952pt.
 <k84.jpg, id=131, 92.59593pt x 92.59593pt>
 File: k84.jpg Graphic file (type jpg)
 <use k84.jpg>
-Package pdftex.def Info: k84.jpg  used on input line 478.
+Package pdftex.def Info: k84.jpg  used on input line 490.
 (pdftex.def)             Requested size: 92.59569pt x 92.59569pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 470--479
+Underfull \hbox (badness 10000) in paragraph at lines 482--491
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 470--479
+Underfull \hbox (badness 10000) in paragraph at lines 482--491
 
  []
 
 
-Overfull \hbox (0.24081pt too wide) in paragraph at lines 470--479
+Overfull \hbox (0.24081pt too wide) in paragraph at lines 482--491
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 470--479
+Underfull \hbox (badness 10000) in paragraph at lines 482--491
 
  []
 
@@ -1119,50 +1140,50 @@ Underfull \hbox (badness 10000) in paragraph at lines 470--479
 <94.jpg, id=135, 387.69844pt x 29.35968pt>
 File: 94.jpg Graphic file (type jpg)
 <use 94.jpg>
-Package pdftex.def Info: 94.jpg  used on input line 490.
+Package pdftex.def Info: 94.jpg  used on input line 502.
 (pdftex.def)             Requested size: 387.69748pt x 29.35959pt.
 <k94.jpg, id=136, 188.20313pt x 167.87718pt>
 File: k94.jpg Graphic file (type jpg)
 <use k94.jpg>
-Package pdftex.def Info: k94.jpg  used on input line 492.
+Package pdftex.def Info: k94.jpg  used on input line 504.
 (pdftex.def)             Requested size: 188.20265pt x 167.87677pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 484--493
+Underfull \hbox (badness 10000) in paragraph at lines 496--505
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 484--493
+Underfull \hbox (badness 10000) in paragraph at lines 496--505
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 484--493
+Underfull \hbox (badness 10000) in paragraph at lines 496--505
 
  []
 
 <15.jpg, id=137, 315.42844pt x 42.91031pt>
 File: 15.jpg Graphic file (type jpg)
 <use 15.jpg>
-Package pdftex.def Info: 15.jpg  used on input line 506.
+Package pdftex.def Info: 15.jpg  used on input line 518.
 (pdftex.def)             Requested size: 315.42766pt x 42.91019pt.
 <k15.jpg, id=138, 228.10219pt x 167.12437pt>
 File: k15.jpg Graphic file (type jpg)
 <use k15.jpg>
-Package pdftex.def Info: k15.jpg  used on input line 508.
+Package pdftex.def Info: k15.jpg  used on input line 520.
 (pdftex.def)             Requested size: 228.10161pt x 167.12395pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 500--509
+Underfull \hbox (badness 10000) in paragraph at lines 512--521
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 500--509
+Underfull \hbox (badness 10000) in paragraph at lines 512--521
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 500--509
+Underfull \hbox (badness 10000) in paragraph at lines 512--521
 
  []
 
@@ -1170,50 +1191,50 @@ Underfull \hbox (badness 10000) in paragraph at lines 500--509
 <25.jpg, id=142, 408.02437pt x 27.85406pt>
 File: 25.jpg Graphic file (type jpg)
 <use 25.jpg>
-Package pdftex.def Info: 25.jpg  used on input line 522.
+Package pdftex.def Info: 25.jpg  used on input line 534.
 (pdftex.def)             Requested size: 408.02338pt x 27.85397pt.
 <k25.jpg, id=143, 176.15813pt x 167.87718pt>
 File: k25.jpg Graphic file (type jpg)
 <use k25.jpg>
-Package pdftex.def Info: k25.jpg  used on input line 524.
+Package pdftex.def Info: k25.jpg  used on input line 536.
 (pdftex.def)             Requested size: 176.15768pt x 167.87677pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 516--525
+Underfull \hbox (badness 10000) in paragraph at lines 528--537
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 516--525
+Underfull \hbox (badness 10000) in paragraph at lines 528--537
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 516--525
+Underfull \hbox (badness 10000) in paragraph at lines 528--537
 
  []
 
 <35.jpg, id=144, 461.47406pt x 33.12375pt>
 File: 35.jpg Graphic file (type jpg)
 <use 35.jpg>
-Package pdftex.def Info: 35.jpg  used on input line 537.
+Package pdftex.def Info: 35.jpg  used on input line 549.
 (pdftex.def)             Requested size: 438.39786pt x 31.46736pt.
 <k35.jpg, id=145, 348.55219pt x 164.86594pt>
 File: k35.jpg Graphic file (type jpg)
 <use k35.jpg>
-Package pdftex.def Info: k35.jpg  used on input line 539.
+Package pdftex.def Info: k35.jpg  used on input line 551.
 (pdftex.def)             Requested size: 348.55132pt x 164.86551pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 531--540
+Underfull \hbox (badness 10000) in paragraph at lines 543--552
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 531--540
+Underfull \hbox (badness 10000) in paragraph at lines 543--552
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 531--540
+Underfull \hbox (badness 10000) in paragraph at lines 543--552
 
  []
 
@@ -1221,25 +1242,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 531--540
 <45.jpg, id=149, 366.61969pt x 28.60687pt>
 File: 45.jpg Graphic file (type jpg)
 <use 45.jpg>
-Package pdftex.def Info: 45.jpg  used on input line 551.
+Package pdftex.def Info: 45.jpg  used on input line 563.
 (pdftex.def)             Requested size: 366.61879pt x 28.6068pt.
 <k45.jpg, id=150, 164.86594pt x 167.87718pt>
 File: k45.jpg Graphic file (type jpg)
 <use k45.jpg>
-Package pdftex.def Info: k45.jpg  used on input line 553.
+Package pdftex.def Info: k45.jpg  used on input line 565.
 (pdftex.def)             Requested size: 164.86551pt x 167.87677pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 545--554
+Underfull \hbox (badness 10000) in paragraph at lines 557--566
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 545--554
+Underfull \hbox (badness 10000) in paragraph at lines 557--566
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 545--554
+Underfull \hbox (badness 10000) in paragraph at lines 557--566
 
  []
 
@@ -1247,50 +1268,50 @@ Underfull \hbox (badness 10000) in paragraph at lines 545--554
 <55.jpg, id=155, 330.48468pt x 58.71938pt>
 File: 55.jpg Graphic file (type jpg)
 <use 55.jpg>
-Package pdftex.def Info: 55.jpg  used on input line 583.
+Package pdftex.def Info: 55.jpg  used on input line 595.
 (pdftex.def)             Requested size: 330.48387pt x 58.71921pt.
 <k55.jpg, id=156, 132.495pt x 121.20282pt>
 File: k55.jpg Graphic file (type jpg)
 <use k55.jpg>
-Package pdftex.def Info: k55.jpg  used on input line 585.
+Package pdftex.def Info: k55.jpg  used on input line 597.
 (pdftex.def)             Requested size: 132.49466pt x 121.20251pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 577--586
+Underfull \hbox (badness 10000) in paragraph at lines 589--598
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 577--586
+Underfull \hbox (badness 10000) in paragraph at lines 589--598
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 577--586
+Underfull \hbox (badness 10000) in paragraph at lines 589--598
 
  []
 
 <65.jpg, id=157, 347.79938pt x 15.05624pt>
 File: 65.jpg Graphic file (type jpg)
 <use 65.jpg>
-Package pdftex.def Info: 65.jpg  used on input line 598.
+Package pdftex.def Info: 65.jpg  used on input line 610.
 (pdftex.def)             Requested size: 347.79852pt x 15.0562pt.
 <k65.jpg, id=158, 82.05656pt x 110.66344pt>
 File: k65.jpg Graphic file (type jpg)
 <use k65.jpg>
-Package pdftex.def Info: k65.jpg  used on input line 600.
+Package pdftex.def Info: k65.jpg  used on input line 612.
 (pdftex.def)             Requested size: 82.05635pt x 110.66315pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 592--601
+Underfull \hbox (badness 10000) in paragraph at lines 604--613
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 592--601
+Underfull \hbox (badness 10000) in paragraph at lines 604--613
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 592--601
+Underfull \hbox (badness 10000) in paragraph at lines 604--613
 
  []
 
@@ -1298,50 +1319,50 @@ Underfull \hbox (badness 10000) in paragraph at lines 592--601
 <75.jpg, id=162, 348.55219pt x 29.35968pt>
 File: 75.jpg Graphic file (type jpg)
 <use 75.jpg>
-Package pdftex.def Info: 75.jpg  used on input line 613.
+Package pdftex.def Info: 75.jpg  used on input line 625.
 (pdftex.def)             Requested size: 348.55132pt x 29.35959pt.
 <k75.jpg, id=163, 204.765pt x 37.64063pt>
 File: k75.jpg Graphic file (type jpg)
 <use k75.jpg>
-Package pdftex.def Info: k75.jpg  used on input line 615.
+Package pdftex.def Info: k75.jpg  used on input line 627.
 (pdftex.def)             Requested size: 204.76448pt x 37.64052pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 607--616
+Underfull \hbox (badness 10000) in paragraph at lines 619--628
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 607--616
+Underfull \hbox (badness 10000) in paragraph at lines 619--628
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 607--616
+Underfull \hbox (badness 10000) in paragraph at lines 619--628
 
  []
 
 <85.jpg, id=164, 389.20406pt x 38.39343pt>
 File: 85.jpg Graphic file (type jpg)
 <use 85.jpg>
-Package pdftex.def Info: 85.jpg  used on input line 626.
+Package pdftex.def Info: 85.jpg  used on input line 638.
 (pdftex.def)             Requested size: 389.20311pt x 38.39333pt.
 <k85.jpg, id=165, 283.0575pt x 165.61874pt>
 File: k85.jpg Graphic file (type jpg)
 <use k85.jpg>
-Package pdftex.def Info: k85.jpg  used on input line 628.
+Package pdftex.def Info: k85.jpg  used on input line 640.
 (pdftex.def)             Requested size: 283.0568pt x 165.61833pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 620--629
+Underfull \hbox (badness 10000) in paragraph at lines 632--641
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 620--629
+Underfull \hbox (badness 10000) in paragraph at lines 632--641
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 620--629
+Underfull \hbox (badness 10000) in paragraph at lines 632--641
 
  []
 
@@ -1349,50 +1370,50 @@ Underfull \hbox (badness 10000) in paragraph at lines 620--629
 <95.jpg, id=169, 393.72093pt x 17.31468pt>
 File: 95.jpg Graphic file (type jpg)
 <use 95.jpg>
-Package pdftex.def Info: 95.jpg  used on input line 640.
+Package pdftex.def Info: 95.jpg  used on input line 652.
 (pdftex.def)             Requested size: 393.71997pt x 17.31462pt.
 <k95.jpg, id=170, 135.50626pt x 36.88782pt>
 File: k95.jpg Graphic file (type jpg)
 <use k95.jpg>
-Package pdftex.def Info: k95.jpg  used on input line 642.
+Package pdftex.def Info: k95.jpg  used on input line 654.
 (pdftex.def)             Requested size: 135.5059pt x 36.88771pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 634--643
+Underfull \hbox (badness 10000) in paragraph at lines 646--655
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 634--643
+Underfull \hbox (badness 10000) in paragraph at lines 646--655
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 634--643
+Underfull \hbox (badness 10000) in paragraph at lines 646--655
 
  []
 
 <105.jpg, id=171, 381.67593pt x 45.16875pt>
 File: 105.jpg Graphic file (type jpg)
 <use 105.jpg>
-Package pdftex.def Info: 105.jpg  used on input line 655.
+Package pdftex.def Info: 105.jpg  used on input line 667.
 (pdftex.def)             Requested size: 381.675pt x 45.16862pt.
 <k105.jpg, id=172, 153.57375pt x 137.7647pt>
 File: k105.jpg Graphic file (type jpg)
 <use k105.jpg>
-Package pdftex.def Info: k105.jpg  used on input line 657.
+Package pdftex.def Info: k105.jpg  used on input line 669.
 (pdftex.def)             Requested size: 153.57336pt x 137.76434pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 649--658
+Underfull \hbox (badness 10000) in paragraph at lines 661--670
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 649--658
+Underfull \hbox (badness 10000) in paragraph at lines 661--670
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 649--658
+Underfull \hbox (badness 10000) in paragraph at lines 661--670
 
  []
 
@@ -1400,60 +1421,60 @@ Underfull \hbox (badness 10000) in paragraph at lines 649--658
 <16.jpg, id=176, 295.1025pt x 40.65187pt>
 File: 16.jpg Graphic file (type jpg)
 <use 16.jpg>
-Package pdftex.def Info: 16.jpg  used on input line 670.
+Package pdftex.def Info: 16.jpg  used on input line 682.
 (pdftex.def)             Requested size: 295.10176pt x 40.65176pt.
 <k16.jpg, id=177, 253.69781pt x 167.12437pt>
 File: k16.jpg Graphic file (type jpg)
 <use k16.jpg>
-Package pdftex.def Info: k16.jpg  used on input line 672.
+Package pdftex.def Info: k16.jpg  used on input line 684.
 (pdftex.def)             Requested size: 253.69719pt x 167.12395pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 664--673
+Underfull \hbox (badness 10000) in paragraph at lines 676--685
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 664--673
+Underfull \hbox (badness 10000) in paragraph at lines 676--685
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 664--673
+Underfull \hbox (badness 10000) in paragraph at lines 676--685
 
  []
 
 <26a.jpg, id=178, 408.02437pt x 31.61812pt>
 File: 26a.jpg Graphic file (type jpg)
 <use 26a.jpg>
-Package pdftex.def Info: 26a.jpg  used on input line 685.
+Package pdftex.def Info: 26a.jpg  used on input line 697.
 (pdftex.def)             Requested size: 408.02338pt x 31.61803pt.
 <26b.jpg, id=179, 409.53pt x 40.65187pt>
 File: 26b.jpg Graphic file (type jpg)
 <use 26b.jpg>
-Package pdftex.def Info: 26b.jpg  used on input line 686.
+Package pdftex.def Info: 26b.jpg  used on input line 698.
 (pdftex.def)             Requested size: 409.52899pt x 40.65176pt.
 <k26a.jpg, id=180, 297.36093pt x 166.37157pt>
 File: k26a.jpg Graphic file (type jpg)
 <use k26a.jpg>
-Package pdftex.def Info: k26a.jpg  used on input line 688.
+Package pdftex.def Info: k26a.jpg  used on input line 700.
 (pdftex.def)             Requested size: 297.3602pt x 166.37114pt.
 <k26b.jpg, id=181, 304.88907pt x 166.37157pt>
 File: k26b.jpg Graphic file (type jpg)
 <use k26b.jpg>
-Package pdftex.def Info: k26b.jpg  used on input line 689.
+Package pdftex.def Info: k26b.jpg  used on input line 701.
 (pdftex.def)             Requested size: 304.88832pt x 166.37114pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 679--690
+Underfull \hbox (badness 10000) in paragraph at lines 691--702
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 679--690
+Underfull \hbox (badness 10000) in paragraph at lines 691--702
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 679--690
+Underfull \hbox (badness 10000) in paragraph at lines 691--702
 
  []
 
@@ -1461,25 +1482,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 679--690
 <36.jpg, id=185, 420.82219pt x 30.1125pt>
 File: 36.jpg Graphic file (type jpg)
 <use 36.jpg>
-Package pdftex.def Info: 36.jpg  used on input line 701.
+Package pdftex.def Info: 36.jpg  used on input line 713.
 (pdftex.def)             Requested size: 420.82115pt x 30.11241pt.
 <k36.jpg, id=186, 276.28218pt x 165.61874pt>
 File: k36.jpg Graphic file (type jpg)
 <use k36.jpg>
-Package pdftex.def Info: k36.jpg  used on input line 703.
+Package pdftex.def Info: k36.jpg  used on input line 715.
 (pdftex.def)             Requested size: 276.2815pt x 165.61833pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 695--704
+Underfull \hbox (badness 10000) in paragraph at lines 707--716
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 695--704
+Underfull \hbox (badness 10000) in paragraph at lines 707--716
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 695--704
+Underfull \hbox (badness 10000) in paragraph at lines 707--716
 
  []
 
@@ -1487,55 +1508,55 @@ Underfull \hbox (badness 10000) in paragraph at lines 695--704
 <46.jpg, id=190, 468.24937pt x 46.67438pt>
 File: 46.jpg Graphic file (type jpg)
 <use 46.jpg>
-Package pdftex.def Info: 46.jpg  used on input line 715.
+Package pdftex.def Info: 46.jpg  used on input line 727.
 (pdftex.def)             Requested size: 468.24821pt x 46.67424pt.
 <k46.jpg, id=191, 203.25937pt x 167.12437pt>
 File: k46.jpg Graphic file (type jpg)
 <use k46.jpg>
-Package pdftex.def Info: k46.jpg  used on input line 717.
+Package pdftex.def Info: k46.jpg  used on input line 729.
 (pdftex.def)             Requested size: 203.25887pt x 167.12395pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 709--718
+Underfull \hbox (badness 10000) in paragraph at lines 721--730
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 709--718
+Underfull \hbox (badness 10000) in paragraph at lines 721--730
 
  []
 
 
-Overfull \hbox (27.23048pt too wide) in paragraph at lines 709--718
+Overfull \hbox (27.23048pt too wide) in paragraph at lines 721--730
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 709--718
+Underfull \hbox (badness 10000) in paragraph at lines 721--730
 
  []
 
 <56.jpg, id=192, 297.36093pt x 48.93282pt>
 File: 56.jpg Graphic file (type jpg)
 <use 56.jpg>
-Package pdftex.def Info: 56.jpg  used on input line 734.
+Package pdftex.def Info: 56.jpg  used on input line 746.
 (pdftex.def)             Requested size: 297.3602pt x 48.93268pt.
 <k56.jpg, id=193, 172.39406pt x 166.37157pt>
 File: k56.jpg Graphic file (type jpg)
 <use k56.jpg>
-Package pdftex.def Info: k56.jpg  used on input line 736.
+Package pdftex.def Info: k56.jpg  used on input line 748.
 (pdftex.def)             Requested size: 172.39363pt x 166.37114pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 728--737
+Underfull \hbox (badness 10000) in paragraph at lines 740--749
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 728--737
+Underfull \hbox (badness 10000) in paragraph at lines 740--749
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 728--737
+Underfull \hbox (badness 10000) in paragraph at lines 740--749
 
  []
 
@@ -1543,25 +1564,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 728--737
 <66.jpg, id=198, 365.86688pt x 45.92157pt>
 File: 66.jpg Graphic file (type jpg)
 <use 66.jpg>
-Package pdftex.def Info: 66.jpg  used on input line 750.
+Package pdftex.def Info: 66.jpg  used on input line 762.
 (pdftex.def)             Requested size: 365.86598pt x 45.92145pt.
 <k66.jpg, id=199, 138.5175pt x 47.42719pt>
 File: k66.jpg Graphic file (type jpg)
 <use k66.jpg>
-Package pdftex.def Info: k66.jpg  used on input line 752.
+Package pdftex.def Info: k66.jpg  used on input line 764.
 (pdftex.def)             Requested size: 138.51715pt x 47.42706pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 744--753
+Underfull \hbox (badness 10000) in paragraph at lines 756--765
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 744--753
+Underfull \hbox (badness 10000) in paragraph at lines 756--765
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 744--753
+Underfull \hbox (badness 10000) in paragraph at lines 756--765
 
  []
 
@@ -1569,50 +1590,50 @@ Underfull \hbox (badness 10000) in paragraph at lines 744--753
 <76.jpg, id=203, 423.08063pt x 40.65187pt>
 File: 76.jpg Graphic file (type jpg)
 <use 76.jpg>
-Package pdftex.def Info: 76.jpg  used on input line 764.
+Package pdftex.def Info: 76.jpg  used on input line 776.
 (pdftex.def)             Requested size: 423.07959pt x 40.65176pt.
 <k76.jpg, id=204, 166.37157pt x 166.37157pt>
 File: k76.jpg Graphic file (type jpg)
 <use k76.jpg>
-Package pdftex.def Info: k76.jpg  used on input line 766.
+Package pdftex.def Info: k76.jpg  used on input line 778.
 (pdftex.def)             Requested size: 166.37114pt x 166.37114pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 758--767
+Underfull \hbox (badness 10000) in paragraph at lines 770--779
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 758--767
+Underfull \hbox (badness 10000) in paragraph at lines 770--779
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 758--767
+Underfull \hbox (badness 10000) in paragraph at lines 770--779
 
  []
 
 <18.jpg, id=205, 213.04594pt x 59.47218pt>
 File: 18.jpg Graphic file (type jpg)
 <use 18.jpg>
-Package pdftex.def Info: 18.jpg  used on input line 787.
+Package pdftex.def Info: 18.jpg  used on input line 799.
 (pdftex.def)             Requested size: 213.04541pt x 59.47203pt.
 <k18.jpg, id=206, 225.09094pt x 169.38281pt>
 File: k18.jpg Graphic file (type jpg)
 <use k18.jpg>
-Package pdftex.def Info: k18.jpg  used on input line 789.
+Package pdftex.def Info: k18.jpg  used on input line 801.
 (pdftex.def)             Requested size: 225.09038pt x 169.38239pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 781--790
+Underfull \hbox (badness 10000) in paragraph at lines 793--802
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 781--790
+Underfull \hbox (badness 10000) in paragraph at lines 793--802
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 781--790
+Underfull \hbox (badness 10000) in paragraph at lines 793--802
 
  []
 
@@ -1620,25 +1641,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 781--790
 <28.jpg, id=210, 246.9225pt x 68.50594pt>
 File: 28.jpg Graphic file (type jpg)
 <use 28.jpg>
-Package pdftex.def Info: 28.jpg  used on input line 802.
+Package pdftex.def Info: 28.jpg  used on input line 814.
 (pdftex.def)             Requested size: 246.92188pt x 68.50577pt.
 <k28.jpg, id=211, 285.31593pt x 167.12437pt>
 File: k28.jpg Graphic file (type jpg)
 <use k28.jpg>
-Package pdftex.def Info: k28.jpg  used on input line 804.
+Package pdftex.def Info: k28.jpg  used on input line 816.
 (pdftex.def)             Requested size: 285.31523pt x 167.12395pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 796--805
+Underfull \hbox (badness 10000) in paragraph at lines 808--817
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 796--805
+Underfull \hbox (badness 10000) in paragraph at lines 808--817
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 796--805
+Underfull \hbox (badness 10000) in paragraph at lines 808--817
 
  []
 
@@ -1646,25 +1667,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 796--805
 <38.jpg, id=215, 203.25937pt x 42.1575pt>
 File: 38.jpg Graphic file (type jpg)
 <use 38.jpg>
-Package pdftex.def Info: 38.jpg  used on input line 822.
+Package pdftex.def Info: 38.jpg  used on input line 834.
 (pdftex.def)             Requested size: 203.25887pt x 42.15738pt.
 <k38.jpg, id=216, 226.59656pt x 168.63pt>
 File: k38.jpg Graphic file (type jpg)
 <use k38.jpg>
-Package pdftex.def Info: k38.jpg  used on input line 824.
+Package pdftex.def Info: k38.jpg  used on input line 836.
 (pdftex.def)             Requested size: 226.596pt x 168.62958pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 816--825
+Underfull \hbox (badness 10000) in paragraph at lines 828--837
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 816--825
+Underfull \hbox (badness 10000) in paragraph at lines 828--837
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 816--825
+Underfull \hbox (badness 10000) in paragraph at lines 828--837
 
  []
 
@@ -1672,50 +1693,50 @@ Underfull \hbox (badness 10000) in paragraph at lines 816--825
 <48.jpg, id=220, 314.67563pt x 42.91031pt>
 File: 48.jpg Graphic file (type jpg)
 <use 48.jpg>
-Package pdftex.def Info: 48.jpg  used on input line 841.
+Package pdftex.def Info: 48.jpg  used on input line 853.
 (pdftex.def)             Requested size: 314.67485pt x 42.91019pt.
 <k48.jpg, id=221, 220.57407pt x 165.61874pt>
 File: k48.jpg Graphic file (type jpg)
 <use k48.jpg>
-Package pdftex.def Info: k48.jpg  used on input line 843.
+Package pdftex.def Info: k48.jpg  used on input line 855.
 (pdftex.def)             Requested size: 220.57352pt x 165.61833pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 835--844
+Underfull \hbox (badness 10000) in paragraph at lines 847--856
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 835--844
+Underfull \hbox (badness 10000) in paragraph at lines 847--856
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 835--844
+Underfull \hbox (badness 10000) in paragraph at lines 847--856
 
  []
 
 <111.jpg, id=222, 293.59688pt x 18.82031pt>
 File: 111.jpg Graphic file (type jpg)
 <use 111.jpg>
-Package pdftex.def Info: 111.jpg  used on input line 860.
+Package pdftex.def Info: 111.jpg  used on input line 872.
 (pdftex.def)             Requested size: 293.59615pt x 18.82025pt.
 <k111.jpg, id=223, 211.54031pt x 169.38281pt>
 File: k111.jpg Graphic file (type jpg)
 <use k111.jpg>
-Package pdftex.def Info: k111.jpg  used on input line 862.
+Package pdftex.def Info: k111.jpg  used on input line 874.
 (pdftex.def)             Requested size: 211.53978pt x 169.38239pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 854--863
+Underfull \hbox (badness 10000) in paragraph at lines 866--875
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 854--863
+Underfull \hbox (badness 10000) in paragraph at lines 866--875
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 854--863
+Underfull \hbox (badness 10000) in paragraph at lines 866--875
 
  []
 
@@ -1723,50 +1744,50 @@ Underfull \hbox (badness 10000) in paragraph at lines 854--863
 <211.jpg, id=227, 323.70938pt x 42.91031pt>
 File: 211.jpg Graphic file (type jpg)
 <use 211.jpg>
-Package pdftex.def Info: 211.jpg  used on input line 875.
+Package pdftex.def Info: 211.jpg  used on input line 887.
 (pdftex.def)             Requested size: 323.70859pt x 42.91019pt.
 <k211.jpg, id=228, 85.82062pt x 51.94406pt>
 File: k211.jpg Graphic file (type jpg)
 <use k211.jpg>
-Package pdftex.def Info: k211.jpg  used on input line 877.
+Package pdftex.def Info: k211.jpg  used on input line 889.
 (pdftex.def)             Requested size: 85.82039pt x 51.94392pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 869--878
+Underfull \hbox (badness 10000) in paragraph at lines 881--890
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 869--878
+Underfull \hbox (badness 10000) in paragraph at lines 881--890
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 869--878
+Underfull \hbox (badness 10000) in paragraph at lines 881--890
 
  []
 
 <311.jpg, id=229, 313.17pt x 40.65187pt>
 File: 311.jpg Graphic file (type jpg)
 <use 311.jpg>
-Package pdftex.def Info: 311.jpg  used on input line 892.
+Package pdftex.def Info: 311.jpg  used on input line 904.
 (pdftex.def)             Requested size: 313.16922pt x 40.65176pt.
 <k311.jpg, id=230, 136.25906pt x 169.38281pt>
 File: k311.jpg Graphic file (type jpg)
 <use k311.jpg>
-Package pdftex.def Info: k311.jpg  used on input line 894.
+Package pdftex.def Info: k311.jpg  used on input line 906.
 (pdftex.def)             Requested size: 136.25871pt x 169.38239pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 886--895
+Underfull \hbox (badness 10000) in paragraph at lines 898--907
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 886--895
+Underfull \hbox (badness 10000) in paragraph at lines 898--907
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 886--895
+Underfull \hbox (badness 10000) in paragraph at lines 898--907
 
  []
 
@@ -1776,17 +1797,17 @@ Ch\uhorn \ohorn ng 4.
 <bang.jpg, id=238, 379.4175pt x 213.04594pt>
 File: bang.jpg Graphic file (type jpg)
 <use bang.jpg>
-Package pdftex.def Info: bang.jpg  used on input line 905.
+Package pdftex.def Info: bang.jpg  used on input line 917.
 (pdftex.def)             Requested size: 265.59042pt x 149.13113pt.
 <b1v1.jpg, id=239, 429.10312pt x 70.76437pt>
 File: b1v1.jpg Graphic file (type jpg)
 <use b1v1.jpg>
-Package pdftex.def Info: b1v1.jpg  used on input line 911.
+Package pdftex.def Info: b1v1.jpg  used on input line 923.
 (pdftex.def)             Requested size: 429.10207pt x 70.76419pt.
 <b1v2.jpg, id=240, 238.64156pt x 41.4047pt>
 File: b1v2.jpg Graphic file (type jpg)
 <use b1v2.jpg>
-Package pdftex.def Info: b1v2.jpg  used on input line 913.
+Package pdftex.def Info: b1v2.jpg  used on input line 925.
 (pdftex.def)             Requested size: 238.64096pt x 41.40457pt.
 [45
 
@@ -1794,49 +1815,49 @@ Package pdftex.def Info: b1v2.jpg  used on input line 913.
 <b1v3.jpg, id=244, 261.22594pt x 53.44969pt>
 File: b1v3.jpg Graphic file (type jpg)
 <use b1v3.jpg>
-Package pdftex.def Info: b1v3.jpg  used on input line 915.
+Package pdftex.def Info: b1v3.jpg  used on input line 927.
 (pdftex.def)             Requested size: 261.22528pt x 53.44954pt.
 File: b1v2.jpg Graphic file (type jpg)
 <use b1v2.jpg>
-Package pdftex.def Info: b1v2.jpg  used on input line 917.
+Package pdftex.def Info: b1v2.jpg  used on input line 929.
 (pdftex.def)             Requested size: 238.64096pt x 41.40457pt.
 <b1o.jpg, id=245, 446.41782pt x 243.15843pt>
 File: b1o.jpg Graphic file (type jpg)
 <use b1o.jpg>
-Package pdftex.def Info: b1o.jpg  used on input line 919.
+Package pdftex.def Info: b1o.jpg  used on input line 931.
 (pdftex.def)             Requested size: 446.41672pt x 243.15784pt.
 
-Overfull \hbox (5.39899pt too wide) in paragraph at lines 919--920
+Overfull \hbox (5.39899pt too wide) in paragraph at lines 931--932
 [] 
  []
 
 <kb1o.jpg, id=246, 231.11343pt x 53.44969pt>
 File: kb1o.jpg Graphic file (type jpg)
 <use kb1o.jpg>
-Package pdftex.def Info: kb1o.jpg  used on input line 921.
+Package pdftex.def Info: kb1o.jpg  used on input line 933.
 (pdftex.def)             Requested size: 231.11287pt x 53.44954pt.
 <b1s1.jpg, id=247, 246.1697pt x 204.765pt>
 File: b1s1.jpg Graphic file (type jpg)
 <use b1s1.jpg>
-Package pdftex.def Info: b1s1.jpg  used on input line 925.
+Package pdftex.def Info: b1s1.jpg  used on input line 937.
 (pdftex.def)             Requested size: 246.16908pt x 204.76448pt.
 <b1s2.jpg, id=248, 261.22594pt x 146.04562pt>
 File: b1s2.jpg Graphic file (type jpg)
 <use b1s2.jpg>
-Package pdftex.def Info: b1s2.jpg  used on input line 926.
+Package pdftex.def Info: b1s2.jpg  used on input line 938.
 (pdftex.def)             Requested size: 261.22528pt x 146.04524pt.
 <bts3.jpg, id=249, 497.60907pt x 341.77687pt>
 File: bts3.jpg Graphic file (type jpg)
 <use bts3.jpg>
-Package pdftex.def Info: bts3.jpg  used on input line 927.
+Package pdftex.def Info: bts3.jpg  used on input line 939.
 (pdftex.def)             Requested size: 447.84402pt x 307.59633pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 924--928
+Underfull \hbox (badness 10000) in paragraph at lines 936--940
 
  []
 
 
-Overfull \hbox (6.8263pt too wide) in paragraph at lines 924--928
+Overfull \hbox (6.8263pt too wide) in paragraph at lines 936--940
 [] 
  []
 
@@ -1845,41 +1866,41 @@ Overfull \hbox (6.8263pt too wide) in paragraph at lines 924--928
 <b1s.jpg, id=256, 253.69781pt x 68.50594pt>
 File: b1s.jpg Graphic file (type jpg)
 <use b1s.jpg>
-Package pdftex.def Info: b1s.jpg  used on input line 929.
+Package pdftex.def Info: b1s.jpg  used on input line 941.
 (pdftex.def)             Requested size: 253.69719pt x 68.50577pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 929--930
+Underfull \hbox (badness 10000) in paragraph at lines 941--942
 
  []
 
 <b2o1.jpg, id=257, 475.02469pt x 245.41687pt>
 File: b2o1.jpg Graphic file (type jpg)
 <use b2o1.jpg>
-Package pdftex.def Info: b2o1.jpg  used on input line 940.
+Package pdftex.def Info: b2o1.jpg  used on input line 952.
 (pdftex.def)             Requested size: 403.77287pt x 208.60532pt.
 [48 <./bts3.jpg> <./b1s.jpg>]
 <b2o2.jpg, id=261, 555.57562pt x 320.69812pt>
 File: b2o2.jpg Graphic file (type jpg)
 <use b2o2.jpg>
-Package pdftex.def Info: b2o2.jpg  used on input line 942.
+Package pdftex.def Info: b2o2.jpg  used on input line 954.
 (pdftex.def)             Requested size: 472.2415pt x 272.59468pt.
 
-Overfull \hbox (31.22377pt too wide) in paragraph at lines 942--943
+Overfull \hbox (31.22377pt too wide) in paragraph at lines 954--955
 [] 
  []
 
 <kb2o.jpg, id=262, 785.93625pt x 225.09094pt>
 File: kb2o.jpg Graphic file (type jpg)
 <use kb2o.jpg>
-Package pdftex.def Info: kb2o.jpg  used on input line 944.
+Package pdftex.def Info: kb2o.jpg  used on input line 956.
 (pdftex.def)             Requested size: 447.98831pt x 128.30316pt.
 
-Overfull \hbox (6.97058pt too wide) in paragraph at lines 944--945
+Overfull \hbox (6.97058pt too wide) in paragraph at lines 956--957
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 944--945
+Underfull \hbox (badness 10000) in paragraph at lines 956--957
 
  []
 
@@ -1887,21 +1908,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 944--945
 <b2s1.jpg, id=267, 474.27188pt x 246.1697pt>
 File: b2s1.jpg Graphic file (type jpg)
 <use b2s1.jpg>
-Package pdftex.def Info: b2s1.jpg  used on input line 947.
+Package pdftex.def Info: b2s1.jpg  used on input line 959.
 (pdftex.def)             Requested size: 426.84074pt x 221.55066pt.
 <b2s2.jpg, id=268, 356.83313pt x 303.38344pt>
 File: b2s2.jpg Graphic file (type jpg)
 <use b2s2.jpg>
-Package pdftex.def Info: b2s2.jpg  used on input line 949.
+Package pdftex.def Info: b2s2.jpg  used on input line 961.
 (pdftex.def)             Requested size: 321.14684pt x 273.04256pt.
  [50 <./kb2o.jpg> <./b2s1.jpg>]
 <kb2s.jpg, id=272, 758.08218pt x 249.93375pt>
 File: kb2s.jpg Graphic file (type jpg)
 <use kb2s.jpg>
-Package pdftex.def Info: kb2s.jpg  used on input line 951.
+Package pdftex.def Info: kb2s.jpg  used on input line 963.
 (pdftex.def)             Requested size: 439.68797pt x 144.96167pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 951--952
+Underfull \hbox (badness 10000) in paragraph at lines 963--964
 
  []
 
@@ -1909,15 +1930,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 951--952
 <b3o1.jpg, id=276, 342.5297pt x 129.48375pt>
 File: b3o1.jpg Graphic file (type jpg)
 <use b3o1.jpg>
-Package pdftex.def Info: b3o1.jpg  used on input line 962.
+Package pdftex.def Info: b3o1.jpg  used on input line 974.
 (pdftex.def)             Requested size: 342.52885pt x 129.48341pt.
 <b3o2.jpg, id=277, 487.06969pt x 389.95688pt>
 File: b3o2.jpg Graphic file (type jpg)
 <use b3o2.jpg>
-Package pdftex.def Info: b3o2.jpg  used on input line 964.
+Package pdftex.def Info: b3o2.jpg  used on input line 976.
 (pdftex.def)             Requested size: 448.1021pt x 358.75873pt.
 
-Overfull \hbox (7.08437pt too wide) in paragraph at lines 964--965
+Overfull \hbox (7.08437pt too wide) in paragraph at lines 976--977
 [] 
  []
 
@@ -1925,15 +1946,15 @@ Overfull \hbox (7.08437pt too wide) in paragraph at lines 964--965
 <rb3o.jpg, id=281, 282.30469pt x 156.585pt>
 File: rb3o.jpg Graphic file (type jpg)
 <use rb3o.jpg>
-Package pdftex.def Info: rb3o.jpg  used on input line 966.
+Package pdftex.def Info: rb3o.jpg  used on input line 978.
 (pdftex.def)             Requested size: 282.30399pt x 156.58461pt.
 <kb3o.jpg, id=282, 798.73407pt x 240.14719pt>
 File: kb3o.jpg Graphic file (type jpg)
 <use kb3o.jpg>
-Package pdftex.def Info: kb3o.jpg  used on input line 967.
+Package pdftex.def Info: kb3o.jpg  used on input line 979.
 (pdftex.def)             Requested size: 439.3051pt x 132.08134pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 966--968
+Underfull \hbox (badness 10000) in paragraph at lines 978--980
 
  []
 
@@ -1941,15 +1962,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 966--968
 <b3s1.jpg, id=286, 424.58624pt x 237.88875pt>
 File: b3s1.jpg Graphic file (type jpg)
 <use b3s1.jpg>
-Package pdftex.def Info: b3s1.jpg  used on input line 969.
+Package pdftex.def Info: b3s1.jpg  used on input line 981.
 (pdftex.def)             Requested size: 382.12408pt x 214.09789pt.
 <b3s2.jpg, id=287, 424.58624pt x 353.06906pt>
 File: b3s2.jpg Graphic file (type jpg)
 <use b3s2.jpg>
-Package pdftex.def Info: b3s2.jpg  used on input line 970.
+Package pdftex.def Info: b3s2.jpg  used on input line 982.
 (pdftex.def)             Requested size: 382.12408pt x 317.75922pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 969--971
+Underfull \hbox (badness 10000) in paragraph at lines 981--983
 
  []
 
@@ -1957,36 +1978,249 @@ Underfull \hbox (badness 10000) in paragraph at lines 969--971
 <kb3s.jpg, id=291, 632.3625pt x 260.47313pt>
 File: kb3s.jpg Graphic file (type jpg)
 <use kb3s.jpg>
-Package pdftex.def Info: kb3s.jpg  used on input line 972.
+Package pdftex.def Info: kb3s.jpg  used on input line 984.
 (pdftex.def)             Requested size: 442.65074pt x 182.32994pt.
 
-Overfull \hbox (1.63301pt too wide) in paragraph at lines 972--973
+Overfull \hbox (1.63301pt too wide) in paragraph at lines 984--985
 [] 
  []
 
-[55 <./b3s2.jpg> <./kb3s.jpg>] [56] [57] ([CSDLNC][BC][LATEX].aux)
+[55 <./b3s2.jpg> <./kb3s.jpg>]
+<b4o.jpg, id=296, 340.27126pt x 63.98906pt>
+File: b4o.jpg Graphic file (type jpg)
+<use b4o.jpg>
+Package pdftex.def Info: b4o.jpg  used on input line 993.
+(pdftex.def)             Requested size: 340.27042pt x 63.98889pt.
+<kb4o.jpg, id=297, 200.24812pt x 49.68562pt>
+File: kb4o.jpg Graphic file (type jpg)
+<use kb4o.jpg>
+Package pdftex.def Info: kb4o.jpg  used on input line 995.
+(pdftex.def)             Requested size: 200.24763pt x 49.6855pt.
+<b4s.jpg, id=298, 350.81062pt x 144.54pt>
+File: b4s.jpg Graphic file (type jpg)
+<use b4s.jpg>
+Package pdftex.def Info: b4s.jpg  used on input line 997.
+(pdftex.def)             Requested size: 350.80975pt x 144.53963pt.
+<b5o.jpg, id=299, 431.36156pt x 313.17pt>
+File: b5o.jpg Graphic file (type jpg)
+<use b5o.jpg>
+Package pdftex.def Info: b5o.jpg  used on input line 1008.
+(pdftex.def)             Requested size: 431.3605pt x 313.16922pt.
+ [56 <./b4o.jpg> <./kb4o.jpg> <./b4s.jpg>]
+<kb5o.jpg, id=303, 403.5075pt x 147.55125pt>
+File: kb5o.jpg Graphic file (type jpg)
+<use kb5o.jpg>
+Package pdftex.def Info: kb5o.jpg  used on input line 1010.
+(pdftex.def)             Requested size: 403.50652pt x 147.55087pt.
+<b5s.jpg, id=304, 405.76593pt x 325.96782pt>
+File: b5s.jpg Graphic file (type jpg)
+<use b5s.jpg>
+Package pdftex.def Info: b5s.jpg  used on input line 1012.
+(pdftex.def)             Requested size: 405.76494pt x 325.96701pt.
+
+[57 <./b5o.jpg> <./kb5o.jpg>]
+<kb5s.jpg, id=308, 395.22656pt x 105.39375pt>
+File: kb5s.jpg Graphic file (type jpg)
+<use kb5s.jpg>
+Package pdftex.def Info: kb5s.jpg  used on input line 1014.
+(pdftex.def)             Requested size: 395.22559pt x 105.39348pt.
+ [58 <./b5s.jpg> <./kb5s.jpg>]
+<b6o.jpg, id=312, 334.24875pt x 309.40594pt>
+File: b6o.jpg Graphic file (type jpg)
+<use b6o.jpg>
+Package pdftex.def Info: b6o.jpg  used on input line 1029.
+(pdftex.def)             Requested size: 334.24792pt x 309.40518pt.
+<kb6o.jpg, id=313, 397.485pt x 131.74219pt>
+File: kb6o.jpg Graphic file (type jpg)
+<use kb6o.jpg>
+Package pdftex.def Info: kb6o.jpg  used on input line 1031.
+(pdftex.def)             Requested size: 397.48402pt x 131.74185pt.
+ [59 <./b6o.jpg>]
+<b7o1.jpg, id=321, 255.20343pt x 136.25906pt>
+File: b7o1.jpg Graphic file (type jpg)
+<use b7o1.jpg>
+Package pdftex.def Info: b7o1.jpg  used on input line 1047.
+(pdftex.def)             Requested size: 255.2028pt x 136.25871pt.
+<b7o2.jpg, id=322, 395.97937pt x 319.94531pt>
+File: b7o2.jpg Graphic file (type jpg)
+<use b7o2.jpg>
+Package pdftex.def Info: b7o2.jpg  used on input line 1049.
+(pdftex.def)             Requested size: 395.97841pt x 319.94452pt.
+
+[60 <./kb6o.jpg> <./b7o1.jpg>]
+<kb7o.jpg, id=326, 200.24812pt x 70.76437pt>
+File: kb7o.jpg Graphic file (type jpg)
+<use kb7o.jpg>
+Package pdftex.def Info: kb7o.jpg  used on input line 1051.
+(pdftex.def)             Requested size: 200.24763pt x 70.76419pt.
+<b7s1.jpg, id=327, 252.19218pt x 138.5175pt>
+File: b7s1.jpg Graphic file (type jpg)
+<use b7s1.jpg>
+Package pdftex.def Info: b7s1.jpg  used on input line 1053.
+(pdftex.def)             Requested size: 252.19156pt x 138.51715pt.
+<b7s2.jpg, id=328, 473.51906pt x 315.42844pt>
+File: b7s2.jpg Graphic file (type jpg)
+<use b7s2.jpg>
+Package pdftex.def Info: b7s2.jpg  used on input line 1054.
+(pdftex.def)             Requested size: 435.63557pt x 290.19286pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1053--1055
+
+ []
+
+[61 <./b7o2.jpg> <./kb7o.jpg> <./b7s1.jpg>]
+<kb7s.jpg, id=333, 255.95625pt x 88.83188pt>
+File: kb7s.jpg Graphic file (type jpg)
+<use kb7s.jpg>
+Package pdftex.def Info: kb7s.jpg  used on input line 1056.
+(pdftex.def)             Requested size: 255.95561pt x 88.83165pt.
+<b801.jpg, id=334, 374.14781pt x 55.70813pt>
+File: b801.jpg Graphic file (type jpg)
+<use b801.jpg>
+Package pdftex.def Info: b801.jpg  used on input line 1066.
+(pdftex.def)             Requested size: 374.14688pt x 55.70798pt.
+ [62 <./b7s2.jpg> <./kb7s.jpg>]
+<b802.jpg, id=338, 277.78781pt x 51.19125pt>
+File: b802.jpg Graphic file (type jpg)
+<use b802.jpg>
+Package pdftex.def Info: b802.jpg  used on input line 1068.
+(pdftex.def)             Requested size: 277.78711pt x 51.19112pt.
+<kb8o1.jpg, id=339, 273.27094pt x 191.21437pt>
+File: kb8o1.jpg Graphic file (type jpg)
+<use kb8o1.jpg>
+Package pdftex.def Info: kb8o1.jpg  used on input line 1071.
+(pdftex.def)             Requested size: 273.27025pt x 191.2139pt.
+<kb8o2.jpg, id=340, 282.30469pt x 174.6525pt>
+File: kb8o2.jpg Graphic file (type jpg)
+<use kb8o2.jpg>
+Package pdftex.def Info: kb8o2.jpg  used on input line 1073.
+(pdftex.def)             Requested size: 282.30399pt x 174.65207pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1070--1075
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1070--1075
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1070--1075
+
+ []
+
+[63 <./b801.jpg> <./b802.jpg> <./kb8o1.jpg>]
+<b8s1.jpg, id=344, 371.88937pt x 423.83344pt>
+File: b8s1.jpg Graphic file (type jpg)
+<use b8s1.jpg>
+Package pdftex.def Info: b8s1.jpg  used on input line 1077.
+(pdftex.def)             Requested size: 371.88846pt x 423.83238pt.
+ [64 <./kb8o2.jpg>]
+<b8s2.jpg, id=348, 274.02374pt x 63.98906pt>
+File: b8s2.jpg Graphic file (type jpg)
+<use b8s2.jpg>
+Package pdftex.def Info: b8s2.jpg  used on input line 1079.
+(pdftex.def)             Requested size: 274.02307pt x 63.98889pt.
+<kb8s1.jpg, id=349, 725.71124pt x 301.125pt>
+File: kb8s1.jpg Graphic file (type jpg)
+<use kb8s1.jpg>
+Package pdftex.def Info: kb8s1.jpg  used on input line 1082.
+(pdftex.def)             Requested size: 449.93633pt x 186.69556pt.
+<kb8s2.jpg, id=350, 729.47531pt x 298.86656pt>
+File: kb8s2.jpg Graphic file (type jpg)
+<use kb8s2.jpg>
+Package pdftex.def Info: kb8s2.jpg  used on input line 1084.
+(pdftex.def)             Requested size: 452.27002pt x 185.29533pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1081--1085
+
+ []
+
+
+Overfull \hbox (8.9186pt too wide) in paragraph at lines 1081--1085
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1081--1085
+
+ []
+
+
+Overfull \hbox (11.25229pt too wide) in paragraph at lines 1081--1085
+[] 
+ []
+
+[65 <./b8s1.jpg> <./b8s2.jpg>]
+<b9o.jpg, id=354, 426.09187pt x 207.02344pt>
+File: b9o.jpg Graphic file (type jpg)
+<use b9o.jpg>
+Package pdftex.def Info: b9o.jpg  used on input line 1095.
+(pdftex.def)             Requested size: 426.09082pt x 207.02292pt.
+ [66 <./kb8s1.jpg> <./kb8s2.jpg>]
+<kb91.jpg, id=358, 241.65282pt x 182.18062pt>
+File: kb91.jpg Graphic file (type jpg)
+<use kb91.jpg>
+Package pdftex.def Info: kb91.jpg  used on input line 1097.
+(pdftex.def)             Requested size: 241.65222pt x 182.18016pt.
+<kb92.jpg, id=359, 348.55219pt x 115.18031pt>
+File: kb92.jpg Graphic file (type jpg)
+<use kb92.jpg>
+Package pdftex.def Info: kb92.jpg  used on input line 1098.
+(pdftex.def)             Requested size: 348.55132pt x 115.18001pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1097--1099
+
+ []
+
+[67 <./b9o.jpg> <./kb91.jpg> <./kb92.jpg>]
+<form1.jpg, id=364, 654.94687pt x 440.39531pt>
+File: form1.jpg Graphic file (type jpg)
+<use form1.jpg>
+Package pdftex.def Info: form1.jpg  used on input line 1113.
+(pdftex.def)             Requested size: 425.71043pt x 286.25356pt.
+<frm1.jpg, id=365, 654.19406pt x 436.63126pt>
+File: frm1.jpg Graphic file (type jpg)
+<use frm1.jpg>
+Package pdftex.def Info: frm1.jpg  used on input line 1115.
+(pdftex.def)             Requested size: 425.2211pt x 283.80695pt.
+ [68 <./form1.jpg>]
+<frm2.jpg, id=369, 769.37437pt x 405.01312pt>
+File: frm2.jpg Graphic file (type jpg)
+<use frm2.jpg>
+Package pdftex.def Info: frm2.jpg  used on input line 1117.
+(pdftex.def)             Requested size: 430.84671pt x 226.80579pt.
+ [69 <./frm1.jpg> <./frm2.jpg>] [70
+
+] ([CSDLNC][BC][LATEX].aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
  ) 
 Here is how much of TeX's memory you used:
- 5135 strings out of 492970
- 70801 string characters out of 3126594
- 160276 words of memory out of 3000000
- 8797 multiletter control sequences out of 15000+200000
- 24642 words of font info for 58 fonts, out of 3000000 for 9000
+ 5411 strings out of 492970
+ 74123 string characters out of 3126594
+ 162408 words of memory out of 3000000
+ 9040 multiletter control sequences out of 15000+200000
+ 25463 words of font info for 59 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 51i,8n,55p,2008b,275s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 51i,9n,55p,2008b,275s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/hoang/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
-/cm/cmmi12.pfb><C:/Users/hoang/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
-blic/amsfonts/cm/cmsy10.pfb><C:/Users/hoang/AppData/Local/Programs/MiKTeX 2.9/f
-onts/type1/vntex/vnr/vnbx12.pfb><C:/Users/hoang/AppData/Local/Programs/MiKTeX 2
-.9/fonts/type1/vntex/vnr/vnr12.pfb><C:/Users/hoang/AppData/Local/Programs/MiKTe
-X 2.9/fonts/type1/vntex/vnr/vnti12.pfb>
-Output written on [CSDLNC][BC][LATEX].pdf (57 pages, 3121685 bytes).
+/cm/cmex10.pfb><C:/Users/hoang/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmmi12.pfb><C:/Users/hoang/AppData/Local/Programs/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmmi9.pfb><C:/Users/hoang/AppData/Local/Programs/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/hoang/AppData/Loc
+al/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/hoang/
+AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:
+/Users/hoang/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/vntex/vnr/vnbx12.pfb
+><C:/Users/hoang/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/vntex/vnr/vnr12.
+pfb><C:/Users/hoang/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/vntex/vnr/vnt
+i12.pfb>
+Output written on [CSDLNC][BC][LATEX].pdf (70 pages, 4404835 bytes).
 PDF statistics:
- 321 PDF objects out of 1000 (max. 8388607)
+ 407 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 576 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 721 words of extra memory for PDF output out of 10000 (max. 10000000)
 

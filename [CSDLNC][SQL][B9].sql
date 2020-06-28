@@ -19,4 +19,10 @@ END CATCH
 RETURN 0
 GO
 
+EXEC dbo.SP_REGISTER_COURSE @STUDENT_ID = '1000', -- varchar(5)
+    @COURSE_ID = '367',-- varchar(8)
+    @SEC_ID = '1', -- varchar(8)
+    @YEAR = 2006, -- numeric
+    @SEMESTER = 'Fall' -- varchar(6)
+
 
